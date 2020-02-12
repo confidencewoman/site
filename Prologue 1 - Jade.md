@@ -4,7 +4,7 @@ title: "Prologue 1: Jade"
 permalink: /prologue-1-jade/
 ---
 
-# Confidence Woman Prologue 1: Jade
+# Prologue 1: Jade
 
 ## Summer, Eight Years Ago
 
