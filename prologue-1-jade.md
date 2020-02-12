@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Prologue 1: Jade"
 ---
 
