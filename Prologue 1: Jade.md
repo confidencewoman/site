@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Prologue 1: Jade"
-permalink: /prologue-1-jade
+permalink: /prologue-1-jade/
 ---
 
 # Confidence Woman Prologue 1: Jade
