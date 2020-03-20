@@ -104,7 +104,7 @@ Tax was on perimeter duty, apparently, sanitizing the sides of counters and cold
 
 "So Jade," he finally muttered, voice low, apparently focused on the seam between two sinks, detergent bubbling across the area. The guard stationed at the kitchen door focused on Tax, who seemed liable to cause a minor crisis at the best of times, let alone when equipped with cleaning chemicals.
 
-"Out with it, Teeth, I can't stand the tension," Jade responded, focused on what they were sure were crushed coffee beans ground into the floor. Waste of good coffee, they thought idly.
+"Out with it, Teeth, I can't stand the tension," Jade responded, focused on what they were sure were crushed coffee beans ground into the floor. _Waste of good coffee_, they thought idly.
 
 "I got… let's say, an opportunity for you."
 
@@ -116,33 +116,33 @@ Tax was on perimeter duty, apparently, sanitizing the sides of counters and cold
 
 "Yeah, I keep quiet about him," Teeth responded, his voice still low. "Thing is, he's real smart, right? He's got his hands on some good stuff…"
 
-Oh, no. Jade's second, third, and fourth lines of mental defense all went up at once. The first line… never really went down.
+_Oh, no._ Jade's second, third, and fourth lines of mental defense all went up at once. The first line… never really went down.
 
 "Oh, yeah?" they said casually, buffing out the coffee bean stains like they'd done dozens of times before.
 
 "Don't say nothing, but yeah. Arcstones. Unapproved, but good material, lotsa different elements. From Uvix, couple from Merradonne. Whole stock of it."
 
-I bet they're great quality. "So?" Jade kept it light.
+_I bet they're great quality._ "So?" Jade kept it light.
 
-"So, he's real good at getting stuff, but he's a wimp. No backbone. Afraid of being on the street, right? And I'm stuck in here a little while longer…"
+"So, he's real good at _getting_ stuff, but he's a wimp. No backbone. Afraid of being on the street, right? And I'm stuck in here a little while longer…"
 
 "So what do you want from me, then?" Jade responded, refusing to connect the dots for him.
 
-"Come on, Jade!" Teeth moved onto the faucet, his murmuring voice distorted softly by the metal basins beneath him. "I need someone to move this stuff for me. You're real good with people. I know I can trust you, bud. Plus, it's steady work, low overheads. You don't have better plans, do you?"
+"Come on, Jade!" Teeth moved onto the faucet, his murmuring voice distorted softly by the metal basins beneath him. "I need someone to move this stuff for me. You're real good with people. I know I can _trust_ you, bud. Plus, it's steady work, low overheads. You don't have better plans, do you?"
 
-"Mm. Dangerous." This was a difficult situation for Jade to balance. They did not want to piss off Teeth, who was at the moment their best ally; and, yeah, they didn't have any plans fresh out of jail. On the other hand, a repeat offense could mean prison for life… and that wasn't considering the dangers inherent in staking out territory on a street corner or back-alley for illegally hawking off-market magical components.
+"Mm. Dangerous." This was a difficult situation for Jade to balance. They did _not_ want to piss off Teeth, who was at the moment their best ally; and, yeah, they didn't have any plans fresh out of jail. On the other hand, a repeat offense could mean prison for _life_… and that wasn't considering the dangers inherent in staking out territory on a street corner or back-alley for illegally hawking off-market magical components.
 
 "Yeah, but you can look out for yourself! Remember yesterday?"
 
 Jade remembered yesterday.
 
-"Yeah… " How do I let this guy down easy? "Lemme think about it, okay, pal?"
+"Yeah… " _How do I let this guy down easy?_ "Lemme think about it, okay, pal?"
 
 Teeth stopped cleaning. Bad sign.
 
-"I know what 'let me think about it' means, Jade. It means 'no, but I don't wanna deal with you right now'. So fuckin' tell me yes or no, but do it now." Teeth was staring now, and Jade risked meeting the stare as a sign of respect. It meant risking the guard noticing what was rapidly becoming a showdown, but Teeth would take looking away very badly. Shit. Shit. Shit.
+"I know what 'let me think about it' means, Jade. It means 'no, but I don't wanna deal with you right now'. So fuckin' tell me yes or no, but do it now." Teeth was staring now, and Jade risked meeting the stare as a sign of respect. It meant risking the guard noticing what was rapidly becoming a showdown, but Teeth would take looking away very badly. _Shit. Shit. Shit._
 
-They tried a rueful smile, one they knew was usually charming. "Sorry, Teeth… I'll always have a place in my heart for ya, but I gotta go straight after this one. As hard as that will be for me, trust me."
+They tried a rueful smile, one they knew was usually charming. "Sorry, Teeth… I'll always have a place in my heart for ya, but I gotta go straight after this one. As hard as that _will_ be for me, trust me."
 
 Teeth finally broke the staring contest just as the guard was beginning to take notice, looking back down at his sink and breathing heavily. Jade gladly got back to their mopping, resisting the urge to look back at the suddenly unpredictable crew boss. "Fuck. Shoulda known you'd weasel outta this alliance in the end."
 
@@ -158,9 +158,9 @@ They cleaned, Tax still giving them their few metres of privacy.
 
 "Huh?" Jade sounded more surprised, more uncomfortable than they would've liked then. A show of weakness. That wouldn't have mattered in front of Teeth an hour ago, but now…
 
-"Don't fuckin' play dumb, Jade. The hand wraps. What you got under there?"
+"Don't fuckin' play dumb, Jade. The _hand wraps_. What you got under there?"
 
-Jade hesitated, weighing the benefits. Six— no, five more months. Long enough that a fragile alliance might be worth it. If I let him in a little…
+Jade hesitated, weighing the benefits. _Six— no, five more months. Long enough that a fragile alliance might be worth it. If I let him in a little…_
 
 "Yeah, okay," they finally said. "You deserve to know." Although fuck, they'd done enough to keep this hidden for the past six years, this felt like a waste. At least it was only Teeth, and Teeth could be trusted with a secret.
 
@@ -182,9 +182,9 @@ Another pause for quiet cleaning. "But… if they're arcane tats… aren't they 
 
 Jade shrugged. "Probably."
 
-"So, why then, if they don't work?"
+"So, _why_ then, if they don't work?"
 
-Jade smiled, their flair for gab coming back to them. "They probably don't, Teeth, but this shit's new, ain't it? How many fancy academic papers you think been written on how Arcan-Ink interacts with Blank tech?"
+Jade smiled, their flair for gab coming back to them. "They _probably_ don't, Teeth, but this shit's new, ain't it? How many fancy academic papers you think been written on how Arcan-Ink interacts with Blank tech?"
 
 "Huh."
 
@@ -192,29 +192,29 @@ Jade slowed down their speech a little; they had been getting a little over-exci
 
 "…they don't work?" Teeth was being deliberately obtuse, because Jade knew for a fact he had the arcane knowledge to put this together, but Jade didn't rise to the bait.
 
-"Maybe. Or, maybe they do work, some unlucky sucker gets blasted into the wall, I get upgraded to solitary and no time off for good behaviour."
+"Maybe. _Or_, maybe they _do_ work, some unlucky sucker gets blasted into the wall, I get upgraded to solitary and no time off for good behaviour."
 
 "Lucky you."
 
-"Or, and this is possible, maybe they explode and oops, no hands left for Jade. Which might also mean," Jade felt obliged to add for self-preservation, "no head left for the other party."
+"_Or_, and this is possible, maybe they _explode_ and oops, no hands left for Jade. Which might _also_ mean," Jade felt obliged to add for self-preservation, "no _head_ left for the other party."
 
-"Huh. Yeah, that's tough."
+"_Huh._ Yeah, that's tough."
 
 "So I keep the wraps on. Better safe than sorry."
 
-Jade let the silence of revelation settle between the two of them, focusing on the satisfying image of their strong, dark brown arms drawing the mop back and forth. Maybe that secret was worth peace, huh, pal?
+Jade let the silence of revelation settle between the two of them, focusing on the satisfying image of their strong, dark brown arms drawing the mop back and forth. _Maybe that secret was worth peace, huh, pal?_
 
 "Can I see?"
 
-Fuck.
+_Fuck._
 
 "…okay, but no touching, and this stays private, okay? This is because I trust you."
 
 "If you say so," Teeth said easily, putting both hands on the soapy rag at the sink's bottom as he leaned forward to see. It could have meant anything.
 
-Five more months, Jade thought, unravelling the grey wraps. This had better be worth five more months. Then they'd never have to have anything to do with any of the opportunists in this desperate place again, Teeth included.
+_Five more months,_ Jade thought, unravelling the grey wraps. _This had better be worth five more months._ Then they'd never have to have anything to do with any of the opportunists in this desperate place again, Teeth included.
 
-Guess I'm gonna weasel out of this alliance after all.
+_Guess I'm gonna weasel out of this alliance after all._
 
 
 ## Summer, Eight Years Ago
