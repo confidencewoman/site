@@ -290,24 +290,24 @@ The blue glass panel lit up with words as the KJ dropped the needle: "Kicked Out
 
 "All _right_," Amaranth said quietly.
 
-> "I lived a good life
-> I did all the good things
-> Died and went to heaven
-> Earned an angel's wings
-> Then last night I saw you
-> From my heavenly cloud
-> Curves like a demon
-> Babe I want you out loud
-> They'll call me up next morning
-> And they'll judge all my sins
-> I'm getting…"
+> "I lived a good life<br>
+> I did all the good things<br>
+> Died and went to heaven<br>
+> Earned an angel's wings<br>
+> Then last night I saw you<br>
+> From my heavenly cloud<br>
+> Curves like a demon<br>
+> Babe I want you out loud<br>
+> They'll call me up next morning<br>
+> And they'll judge all my sins<br>
+> I'm getting…"<br>
 
 Amaranth clapped three times along with the recorded drums, because that's what you _did_ when Goldwyrm was playing.
 
 The singer finished the first verse:
 
-> "Kicked out of paradise
-> For sneakin' you in!"
+> "Kicked out of paradise<br>
+> For sneakin' you in!"<br>
 
 During the first solo, Jade said, "Don't know this one. Should I?"
 
@@ -348,14 +348,14 @@ The singer said, "If the next act got lost, Grant, I got another one in me. Let'
 
 This one was a slower number. The singer's swagger faded; he hugged the mic with both hands, as if it was the last source of heat in a cold winter. He began:
 
-> "It's the end of everything, and the air is freezing
-> Winter is your favourite time of year
-> I promised you I'd never stop believing
-> You promised me that you would find me here
-> And now my soul is spinning with the seasons
-> The crowds have all packed up their smiles and cheer
-> The Sun goes down and I'm alone and grieving
-> Still at the altar, waiting for you, dear."
+> "It's the end of everything, and the air is freezing<br>
+> Winter is your favourite time of year<br>
+> I promised you I'd never stop believing<br>
+> You promised me that you would find me here<br>
+> And now my soul is spinning with the seasons<br>
+> The crowds have all packed up their smiles and cheer<br>
+> The Sun goes down and I'm alone and grieving<br>
+> Still at the altar, waiting for you, dear."<br>
 
 It seemed it was Jade's turn to get lost in the performance on stage.
 
@@ -393,17 +393,17 @@ She nodded. She'd been thinking as much as staring, but she couldn't deny the es
 
 They watched. The singer continued:
 
-> "I wish you lied to me, but I know better
-> I know you'd rather hurt me with the truth
-> Now I'm left with a—"
+> "I wish you lied to me, but I know better<br>
+> I know you'd rather hurt me with the truth<br>
+> Now I'm left with a—"<br>
 
 By the chorus, Jade was singing along. Very quietly, but one of the things anyone who got close to Amaranth eventually learned was that her pointy ears weren't just for show. She could hear a needle drop in a haystack.
 
-> "White dress
-> Black skies
-> Blue lips
-> No lies
-> …and no you."
+> "White dress<br>
+> Black skies<br>
+> Blue lips<br>
+> No lies<br>
+> …and no you."<br>
 
 "Yeah, okay, she's really going at it," they admitted.
 
@@ -496,10 +496,11 @@ The singer's eyes scanned over her, sizing her up the same way she'd sized up Ja
 "There's another bar on the third floor," the singer said. "Quieter. We could probably get a _two-person_ booth."
 
 Up on stage, the dark-eyed girl was starting her song. Spectacle, anyway. She wasn't good. There was no possible key in which she could have been on key.
-> "I got your number, darlin'
-> I got your spectrum, babe
-> You're clever burning delta white
-> But I'm digging you a graaaaaaave—"
+
+> "I got your number, darlin'<br>
+> I got your spectrum, babe<br>
+> You're clever burning delta white<br>
+> But I'm digging you a graaaaaaave—"<br>
 
 "Oh, _gods_,"Amaranth said. "She is _murdering_ Bitzen Pieces. Third floor sounds good."
 
