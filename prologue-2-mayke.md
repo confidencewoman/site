@@ -5,7 +5,7 @@ title: "Prologue 2: Mayke"
 ## Five Years Ago
 
 
-### Hotel
+### <span style="color: rgb(109, 109, 109)">Hotel</span>
 
 Amaranth would just as soon not have been in the swamp town of Kyravasti, surrounded by miles and miles of soggy land and turbid water, moss-draped trees shrouding it in greenish darkness even in mid-afternoon. It reminded Amaranth of the home she'd left far, far behind: great place to live, if you were a land eel. It was a wonder anyone chose to work here, and a mystery what Vyruth Power & Mana was paying them to work on. But someone wanted to know, and they wanted to know badly enough that they had managed to contact Amaranth, and shown Amaranth a number with a dollar sign in front of it and enough zeros after it to engage her enthusiasm for Kyravasti, and so she and Jade were here, working out how to get the information that would make that number theirs.
 
@@ -34,7 +34,7 @@ Amaranth shrugged. "All right. Thought I'd ask."
 Jade stretched, lacing their gloved hands together above their head. They smiled, picked up the pestle again. "After a fashion, darlin'. I've been doing my own cologne."
 
 
-### Front desk
+### <span style="color: rgb(109, 109, 109)">Front desk</span>
 
 She made her way down two flights of spiral wrought-iron stairs, sandal steps ringing on the metal, the only noise in the humid air. A bored-looking woman behind the front desk perked up slightly at her approach, put down the brochure she was fanning herself with. She had dark hair braided to keep it off her face, and a nice button nose.
 
@@ -61,7 +61,7 @@ The clerk raised an eyebrow. "Ma'am?"
 "Pleasure's all mine," Amaranth told her, and meant it. This felt like a lead, and for sure the cute little clerk wasn't getting paid enough to put up with this heat. Amaranth believed in sharing the wealth. Especially other people's.
 
 
-### The Club
+### <span style="color: rgb(109, 109, 109)">The Club</span>
 
 Tires squelched in the mud as the black sedan pulled up to the edge of what passed for a curb in this part of Kyravasti. Mud slightly higher and more solid than the other mud, perhaps. The driver put the parking brake on, came around to open the door for Amaranth. She took his proffered hand with a smile, grateful for the assistance with unfolding herself from the back seat, which hadn't really had enough room for a woman of Amaranth's stature. Once vertical, she turned slowly on the wooden sidewalk, taking in the surroundings as she straightened out the rumpled pleats of her tea-length dress.
 
@@ -90,7 +90,7 @@ Jade wore black slacks with razor creases, black leather shoes polished to mirro
 Satisfied, they offered her an arm. She took it and let them walk her down the path.
 
 
-### Entrance
+### <span style="color: rgb(109, 109, 109)">Entrance</span>
 
 The boardwalk ended in a garden gone to riot. More jessamine contended with wisteria, honeysuckle, true jasmine, who knew what else. If this place had been properly gardened within the last decade, Amaranth would have been surprised. The black-clad bouncer standing at an improvised podium by the front steps looked a little better groomed, but not much. He eyed them briefly over a sizable beard, waved them past without saying anything.
 
@@ -109,7 +109,7 @@ The mage crossed their arms and gave her a dubious expression. "Split up, hell. 
 They laughed. "We pull this off, that line won't work so good after."
 
 
-### The bar
+### <span style="color: rgb(109, 109, 109)">The bar</span>
 
 Amaranth didn't have to work too hard to find a bar: the carpet was worn thin on the path to a parlor further into the first floor of the enormous house. Inside, two cocktail jockeys were juggling bottles and shakers behind a triple arc of dark wood counter, bar stools, and drunks; someone had chalked up a list of specials and hung it from a half-functioning chandelier. Mixed crowd, some looking monied, some looking cheap, most somewhere in the middle, atmosphere convivial, or at least nobody seemed to be spoiling for a fight this early. She'd blend just fine. The throng failed to part at her arrival, but it didn't seem like Kyravasti was big on queueing, so she excuse-me'd and elbowed her way close enough to one of the bartenders to catch his eye.
 
@@ -154,7 +154,7 @@ Amaranth kept him going with the occasional batted eyelash, wide-eyed "No, reall
 "It's…" Pinstripes' eyes flashed with brief anger, obvious even in her peripheral vision, but then he looked around. There were plenty of other men in the room, not a lot of women, and Amaranth was unquestionably the hottest thing going tonight. If he started trouble, it'd be coming back at him fast. "Never mind," he muttered, departing.
 
 
-### Nev
+### <span style="color: rgb(109, 109, 109)">Nev</span>
 
 "Wow," said the little bearded guy on her other side, "that guy crashed and burned, huh."
 
@@ -223,7 +223,7 @@ They clinked their glasses together, a small sound in the background noise of th
 She'd been watching, and Neville hadn't tipped the bartender either. She left a tenner under her empty glass as she pushed it across the bar towards Harry, and left to find Jade.
 
 
-### Upstairs
+### <span style="color: rgb(109, 109, 109)">Upstairs</span>
 
 Amaranth wasn't in any particular hurry. She slowly ascended a grand staircase towards the back of the club, taking in some of the mood on the way. A few men trudged down the stairs in the other direction, looking like they'd just bet the rent money and lost; others, seeming more hopeful, passed her on the way up.
 
@@ -272,7 +272,7 @@ They paused to see if Amaranth was still paying attention; she nodded.
 "Night's still young. Speaking of sound systems, I think the band's live. Let's go check them out."
 
 
-### The ballroom
+### <span style="color: rgb(109, 109, 109)">The ballroom</span>
 
 Back on the first floor, they entered an old ballroom through wide double doors. Huge mirrors made the place look even bigger. The music stopped for a moment; Amaranth heard the clack of her own shoes on the hardwood parquetry. The Club must have been quite something as a private residence, she mused. The crowd in the ballroom was sparse, a few dozen in a place that could have easily held a few hundred. There were a few scattered high tables here and there, really just places for people to rest their drinks.
 
@@ -322,7 +322,7 @@ The singer burned through the chorus, the next few verses. Amaranth caught his e
 He finished to scattered applause from a crowd that, Amaranth felt, did not appreciate what was going on up there.
 
 
-### White Dress
+### <span style="color: rgb(109, 109, 109)">White Dress</span>
 
 The KJ stood, grabbed his own mic, exhorted the room to show some love: "C'mon, people, give it up for the best Goldwyrm since Goldwyrm!" A few more claps. "All right. Next up, we got Rozz."
 
@@ -515,7 +515,7 @@ With a wave, they faded into the crowd.
 "Yeah, no worries." She kept sneaking glances at Amaranth, as if afraid she was going to evaporate. "I'm here most weekends. It's a left out the ballroom door…"
 
 
-### Balcony bar
+### <span style="color: rgb(109, 109, 109)">Balcony bar</span>
 
 The spiral staircase was steep and uncarpeted, could have been a servants' access originally, but after a bit of a climb, they were on a balcony overlooking the marsh at the back of the house. The night had finally cooled enough for the swamp air to be pleasant on Amaranth's skin, and she recognized skeeterbane bushes in planters here and there. Probably they had a fancier name than that here, but call them what you would, they kept the bugs away, and they smelled nice too. A hostess seated them, pretty girl in a black skirt and white blouse. This felt like where money went, when money showed up to the Club. And indeed, the drinks weren't cheap.
 
@@ -579,4 +579,4 @@ No retort, just a slightly dazed expression. Hells, the singer was as cute flust
 
 Amaranth chuckled softly. She'd want to remember this moment of night air, orange gaslight, the citrus tang of aizan, the singer in her punky leather armor, the satisfaction of an evening ultimately well spent, and the anticipation of the night to come. "I don't think you will."
 
-### _to be continued_
+### <span style="color: rgb(109, 109, 109)">_to be continued_</span>
