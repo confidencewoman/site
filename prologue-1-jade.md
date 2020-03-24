@@ -1,6 +1,24 @@
 ---
 title: "Prologue 1: Jade"
+description: "The Mage"
 ---
+
+
+## Content Warnings
+
+**implied sex, violence, homophobic slur**
+
+
+## Table of Contents
+
+- [Winter, Eight and a Half Years Ago](#winter-eight-and-a-half-years-ago)
+- [At Lights Out](#at-lights-out)
+- [Cleaning Duty, Next Day](#cleaning-duty-next-day)
+- [Summer, Eight Years Ago](#summer-eight-years-ago)
+- [Thirty Minutes Later](#thirty-minutes-later)
+- [Five Days Later, 3:43 AM](#five-days-later-343-am)
+- [Three Days Later and Three Countries Away](#three-days-later-and-three-countries-away)
+
 
 ## Winter, Eight and a Half Years Ago
 

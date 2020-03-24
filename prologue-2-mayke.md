@@ -1,6 +1,13 @@
 ---
 title: "Prologue 2: Mayke"
+description: "The Technician"
 ---
+
+
+## Content Warnings
+
+**alcohol, sex**
+
 
 ## Table of Contents
 
@@ -18,6 +25,7 @@ title: "Prologue 2: Mayke"
 - [The Next Morning](#the-next-morning)
 - [That Afternoon](#that-afternoon)
 - [_to be continued_](#to-be-continued)
+
 
 ## Five Years Ago
 
