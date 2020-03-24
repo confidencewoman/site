@@ -2,6 +2,23 @@
 title: "Prologue 2: Mayke"
 ---
 
+## Table of Contents
+
+- [Five Years Ago](#five-years-ago)
+- [That Evening](#that-evening)
+    - [Main Bar](#main-bar)
+    - [Upstairs](#upstairs)
+    - [Ballroom](#ballroom)
+    - [Balcony Bar](#balcony-bar)
+- [That Night](#that-night)
+    - [Codenames](#codenames)
+    - [Missing Pieces](#missing-pieces)
+    - [One More Nasty Thing](#one-more-nasty-thing)
+    - [A Really Good Story](#a-really-good-story)
+- [The Next Morning](#the-next-morning)
+- [That Afternoon](#that-afternoon)
+- [_to be continued_](#to-be-continued)
+
 ## Five Years Ago
 
 Amaranth would just as soon not have been in the swamp town of Kyravasti, surrounded by miles and miles of soggy land and turbid water, moss-draped trees shrouding it in greenish darkness even in mid-afternoon. It reminded Amaranth of the home she’d left far, far behind: great place to live, if you were a land eel. It was a wonder anyone chose to work here, and a mystery what Vyruth Power & Mana was paying them to work on. But someone wanted to know, and they wanted to know badly enough that they had managed to contact Amaranth, and shown Amaranth a number with a dollar sign in front of it and enough zeros after it to engage her enthusiasm for Kyravasti, and so she and Jade were here, working out how to get the information that would make that number theirs.
