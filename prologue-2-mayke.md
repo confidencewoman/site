@@ -294,28 +294,28 @@ The blue glass panel lit up with words as the KJ dropped the needle: “Kicked O
 
 “All _right_,” Amaranth said quietly.
 
-<span style='font-size: 1.2em !important;'>
-> “I lived a good life<br>
-> I did all the good things<br>
-> Died and went to heaven<br>
-> Earned an angel’s wings<br>
-> Then last night I saw you<br>
-> From my heavenly cloud<br>
-> Curves like a demon<br>
-> Babe I want you out loud<br>
-> They’ll call me up next morning<br>
-> And they’ll judge all my sins<br>
-> I’m getting…”<br>
-</span>
+<blockquote style='font-size: 1.2em !important;'>
+    “I lived a good life<br>
+    I did all the good things<br>
+    Died and went to heaven<br>
+    Earned an angel’s wings<br>
+    Then last night I saw you<br>
+    From my heavenly cloud<br>
+    Curves like a demon<br>
+    Babe I want you out loud<br>
+    They’ll call me up next morning<br>
+    And they’ll judge all my sins<br>
+    I’m getting…”<br>
+</blockquote>
 
 Amaranth clapped three times along with the recorded drums, because that’s what you _did_ when Goldwyrm was playing.
 
 The singer finished the first verse:
 
-<span style='font-size: 1.2em !important;'>
-> “Kicked out of paradise<br>
-> For sneakin’ you in!”<br>
-</span>
+<blockquote style='font-size: 1.2em !important;'>
+    “Kicked out of paradise<br>
+    For sneakin’ you in!”<br>
+</blockquote>
 
 During the first solo, Jade said, “Don’t know this one. Should I?”
 
@@ -353,16 +353,16 @@ The singer said, “If the next act got lost, Grant, I got another one in me. Le
 
 This one was a slower number. The singer’s swagger faded; he hugged the mic with both hands, as if it was the last source of heat in a cold winter. He began:
 
-<span style='font-size: 1.2em !important;'>
-> “It’s the end of everything, and the air is freezing<br>
-> Winter is your favourite time of year<br>
-> I promised you I’d never stop believing<br>
-> You promised me that you would find me here<br>
-> And now my soul is spinning with the seasons<br>
-> The crowds have all packed up their smiles and cheer<br>
-> The Sun goes down and I’m alone and grieving<br>
-> Still at the altar, waiting for you, dear.”<br>
-</span>
+<blockquote style='font-size: 1.2em !important;'>
+    “It’s the end of everything, and the air is freezing<br>
+    Winter is your favourite time of year<br>
+    I promised you I’d never stop believing<br>
+    You promised me that you would find me here<br>
+    And now my soul is spinning with the seasons<br>
+    The crowds have all packed up their smiles and cheer<br>
+    The Sun goes down and I’m alone and grieving<br>
+    Still at the altar, waiting for you, dear.”<br>
+</blockquote>
 
 It seemed it was Jade’s turn to get lost in the performance on stage.
 
@@ -400,21 +400,21 @@ She nodded. She’d been thinking as much as staring, but she couldn’t deny th
 
 They watched. The singer continued:
 
-<span style='font-size: 1.2em !important;'>
-> “I wish you lied to me, but I know better<br>
-> I know you’d rather hurt me with the truth<br>
-> Now I’m left with a—”<br>
-</span>
+<blockquote style='font-size: 1.2em !important;'>
+    “I wish you lied to me, but I know better<br>
+    I know you’d rather hurt me with the truth<br>
+    Now I’m left with a—”<br>
+</blockquote>
 
 By the chorus, Jade was singing along. Very quietly, but one of the things anyone who got close to Amaranth eventually learned was that her pointy ears weren’t just for show. She could hear a needle drop in a haystack.
 
-<span style='font-size: 1.2em !important;'>
-> “White dress<br>
-> Black skies<br>
-> Blue lips<br>
-> No lies<br>
-> …and no you.”<br>
-</span>
+<blockquote style='font-size: 1.2em !important;'>
+    “White dress<br>
+    Black skies<br>
+    Blue lips<br>
+    No lies<br>
+    …and no you.”<br>
+</blockquote>
 
 “Yeah, okay, she’s really going at it,” they admitted.
 
@@ -508,12 +508,12 @@ The singer’s eyes scanned over her, sizing her up the same way she’d sized u
 
 Up on stage, the dark-eyed girl was starting her song. Spectacle, anyway. She wasn’t good. There was no possible key in which she could have been on key.
 
-<span style='font-size: 1.2em !important;'>
-> “I got your number, darlin’<br>
-> I got your spectrum, babe<br>
-> You’re clever burning delta white<br>
-> But I’m digging you a graaaaaaave—”<br>
-</span>
+<blockquote style='font-size: 1.2em !important;'>
+    “I got your number, darlin’<br>
+    I got your spectrum, babe<br>
+    You’re clever burning delta white<br>
+    But I’m digging you a graaaaaaave—”<br>
+</blockquote>
 
 “Oh, _gods_,”Amaranth said. “She is _murdering_ Bitzen Pieces. Third floor sounds good.”
 
