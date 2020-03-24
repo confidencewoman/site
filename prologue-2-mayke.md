@@ -110,9 +110,7 @@ The mage crossed their arms and gave her a dubious expression. “Split up, hell
 They laughed. “We pull this off, that line won’t work so good after.”
 
 
-
----
-
+### <span style="color: rgb(109, 109, 109)">Main Bar</span>
 
 Amaranth didn’t have to work too hard to find a bar: the carpet was worn thin on the path to a parlor further into the first floor of the enormous house. Inside, two cocktail jockeys were juggling bottles and shakers behind a triple arc of dark wood counter, bar stools, and drunks; someone had chalked up a list of specials and hung it from a half-functioning chandelier. Mixed crowd, some looking monied, some looking cheap, most somewhere in the middle, atmosphere convivial, or at least nobody seemed to be spoiling for a fight this early. She’d blend just fine. The throng failed to part at her arrival, but it didn’t seem like Kyravasti was big on queueing, so she excuse-me’d and elbowed her way close enough to one of the bartenders to catch his eye.
 
@@ -223,9 +221,7 @@ They clinked their glasses together, a small sound in the background noise of th
 She’d been watching, and Neville hadn’t tipped the bartender either. She left a tenner under her empty glass as she pushed it across the bar towards Harry, and left to find Jade.
 
 
-
----
-
+### <span style="color: rgb(109, 109, 109)">Upstairs</span>
 
 Amaranth wasn’t in any particular hurry. She slowly ascended a grand staircase towards the back of the club, taking in some of the mood on the way. A few men trudged down the stairs in the other direction, looking like they’d just bet the rent money and lost; others, seeming more hopeful, passed her on the way up.
 
@@ -274,9 +270,7 @@ They paused to see if Amaranth was still paying attention; she nodded.
 “Night’s still young. Speaking of sound systems, I think the band’s live. Let’s go check them out.”
 
 
-
----
-
+### <span style="color: rgb(109, 109, 109)">Ballroom</span>
 
 Back on the first floor, they entered an old ballroom through wide double doors. Huge mirrors made the place look even bigger. The music stopped for a moment; Amaranth heard the clack of her own shoes on the hardwood parquetry. The Club must have been quite something as a private residence, she mused. The crowd in the ballroom was sparse, a few dozen in a place that could have easily held a few hundred. There were a few scattered high tables here and there, really just places for people to rest their drinks.
 
@@ -528,9 +522,7 @@ With a wave, they faded into the crowd.
 “Yeah, no worries.” She kept sneaking glances at Amaranth, as if afraid she was going to evaporate. “I’m here most weekends. It’s a left out the ballroom door…”
 
 
-
----
-
+### <span style="color: rgb(109, 109, 109)">Balcony Bar</span>
 
 The spiral staircase was steep and uncarpeted, could have been a servants’ access originally, but after a bit of a climb, they were on a balcony overlooking the marsh at the back of the house. The night had finally cooled enough for the swamp air to be pleasant on Amaranth’s skin, and she recognized skeeterbane bushes in planters here and there. Probably they had a fancier name than that here, but call them what you would, they kept the bugs away, and they smelled nice too. A hostess seated them, pretty girl in a black skirt and white blouse. This felt like where money went, when money showed up to the Club. And indeed, the drinks weren’t cheap.
 
@@ -667,6 +659,9 @@ She met Amaranth’s eyes for a moment as she weighed the terms, pursing her lip
 
 Amaranth grinned the kind of grin that gave the singer some trouble deciding where to look. “We’re all ears.”
 
+
+### <span style="color: rgb(109, 109, 109)">Codenames</span>
+
 "My _name_, first of all. Which neither of you bothered to ask, by the way; you’re terrible at flirting. I’m—”
 
 “No names!” Amaranth said sharply. “Once we’re into it, codenames only. We’ll handle that before we get much further.”
@@ -691,8 +686,7 @@ The singer asked, “You’re giving me a girly codename?”
 
 Amaranth thought she caught a flash of fear in her eyes, or maybe something in the voice.
 
-“Just give it a go,” she said softly. “Something wrong with that, Violet?” \
-
+“Just give it a go,” she said softly. “Something wrong with that, Violet?”
 
 “Nuh-uh,” the singer said, frowning and shrugging out from under Amaranth’s arm. “Not doing Violet.”
 
@@ -746,6 +740,9 @@ Jade looked her up and down. “Duly noted.”
 
 “For now, anyway,” Amaranth said, her quick smile promising more in the future, if she felt it was called for.
 
+
+### <span style="color: rgb(109, 109, 109)">Missing Pieces</span>
+
 Mayke returned to the coffee table and shook her head as she studied the map again, apparently finding more and more she didn’t like. The expression on her face was doubtful, but not hopeless; that of someone mentally summing up a large amount of work ahead of her.
 
 “You don’t know as much as you should, then. For one thing, the company works us pretty hard, so ‘work hours’ is pretty nearly all the time. I’ve been here a bit, I’m still in late more nights than not, keeping up with our performance targets so I keep my job; I know I ain’t the only one kicking around the site past midnight at least once a week. For another, at a guess, I’d say this map is a year out of date, and missing half the fun stuff. May I?” She waved a pen over the sketch.
@@ -798,6 +795,9 @@ They nodded. “Keyed. That tracks. Probably doesn’t like minds without VP&M b
 
 “Same deal, as far as I know, except for some buildings where we need a clean background. Arcane and engineering areas mostly. The security boys carry portable damper wards, and they’re not supposed to be in those areas without taking them off, but good luck telling them that fewer than five times.”
 
+
+### <span style="color: rgb(109, 109, 109)">One More Nasty Thing</span>
+
 “You seem to know an awful lot about security for a… what did you say you did, again?”
 
 “Yeah, lucky for you I do,” Mayke bristled. “As it happens, I didn’t have much to do for the first six months of Phase II because the stuff I was _supposed_ to be working on didn’t exist yet, so VP&M, the cheap bastards, put me to work on some of the visible parts of site security. And I told her what I do: technician. Engineer, really; I have a little experience with paramechanical systems, on top of a _lot_ with mundane machinery, but I sorta picked it up at my last gig, and without the degree, they’re not paying me engineer money. Signed on with VP&M anyway ‘cause I needed the work in a hurry.”
@@ -820,7 +820,7 @@ They both started talking at once, getting louder and louder as they tried to ta
 
 “Sounds bad. Mayke, your turn. How does VP&M use them? And where?”
 
-“Everywhere. In the edges of the near-site minefields, and in the walls of _every _building. One can throw a field about a hundred meters across, but they don’t react to each other, so the site’s got a loosely overlapping grid. They don’t work like wards because they don’t do much in real space, so they don’t shit up the background. For my money, I wish they’d leave them out of the minefields; the in-walls aren’t too bad because they use building power and cold water feeds, but the ones in the minefields need regular maintenance: either the batteries go dead, or swamp crap clogs the cooling intakes, and then someone’s gotta wade out there _very carefully_ and unfuck the mine before it falls apart inside. Me, for example. Like at least once a week. Like I don’t have anything better to do.”
+“Everywhere. In the edges of the near-site minefields, and in the walls of _every_ building. One can throw a field about a hundred meters across, but they don’t react to each other, so the site’s got a loosely overlapping grid. They don’t work like wards because they don’t do much in real space, so they don’t shit up the background. For my money, I wish they’d leave them out of the minefields; the in-walls aren’t too bad because they use building power and cold water feeds, but the ones in the minefields need regular maintenance: either the batteries go dead, or swamp crap clogs the cooling intakes, and then someone’s gotta wade out there _very carefully_ and unfuck the mine before it falls apart inside. Me, for example. Like at least once a week. Like I don’t have anything better to do.”
 
 “You seen one actually do its thing?” Jade asked, brow furrowed.
 
@@ -908,6 +908,9 @@ They toasted the black cat Trouble.
 
 “The past,” Mayke said, but she said it smiling.
 
+
+### <span style="color: rgb(109, 109, 109)">A Really Good Story</span>
+
 Amaranth was done pushing anybody tonight, but things in the room felt like they were in a good place, and she wasn’t about to go to sleep just yet. Years of association with Jade had yielded more than a few good stories involving the mage, and Amaranth _loved_ telling stories.
 
 “So,” she said, “there’s past that needs to _stay_ past, but there’s also past that’s a good tale. Got a few of those. This one in particular’s got _no_ chance of coming back on us, not since the revolution in Ustroy, kicked over their whole moldy old theocracy, I hear. But those monks had some interesting tastes. Hey, Jade,” she asked, “you remember that damn snake?”
@@ -917,11 +920,6 @@ Amaranth was done pushing anybody tonight, but things in the room felt like they
 “Snake?” Mayke asked.
 
 “Oh, yeah,” Amaranth confirmed. “Big old scaly thing. Jade and I, we’d gone to ground for a bit on the island of Ustroy Obros after the last job. Weren’t expecting to work. Weren’t looking for it. So, of course, one day we’re sitting down to lunch, a couple of nice tuna steaks on the table, and work finds us. There was this bunch of militant reformist monks, you see, and they’d picked our restaurant to make an example…”
-
-
-
----
-
 
 The story was a long one, full of close shaves. The gist of it was that she’d talked them out of being executed and straight into retrieving an ornery living symbol of the reformists. As she told it, Jade perked up, filled in bits she didn’t remember. Mayke looked left and right, gradually engrossed. The port worked its way into all their systems, joining forces with the drinks they’d had at the Club earlier. Amaranth turned to Mayke, and Jade on her far side; noticed less of a gap between the two than there had been a few minutes ago. She grinned. Good to see they were getting along.
 
@@ -935,7 +933,7 @@ The story was a long one, full of close shaves. The gist of it was that she’d 
 
 “Well,” Amaranth smirked, “it was.”
 
-“Are you,” Mayke cackled, “fucking _serious_? This really happened?”
+“Are you,” Mayke cackled, “fucking serious? This really happened?”
 
 “Oh, yeah,” Jade said, grinning. “I look like the kinda mook who can spin a yarn like that?”
 
@@ -945,10 +943,10 @@ Mayke turned towards Jade, wicked expression on her face. “I dunno, Jade,” s
 
 “Oh yeah, sure, sure, I totally believe you. Bet I can get you to drop the accent.”
 
-“Whatcha mean? Told you I ain’t got no accen—” \
- \
-Jade’s protest was cut off when Mayke leaned over, turning and swinging one leg up until she was half on top of Jade, and kissed them full on the mouth. \
- \
+“Whatcha mean? Told you I ain’t got no accen—”
+
+Jade’s protest was cut off when Mayke leaned over, turning and swinging one leg up until she was half on top of Jade, and kissed them full on the mouth.
+
 Amaranth whistled appreciatively.
 
 Mayke broke the kiss. Maybe she’d forgotten she had an audience. She looked panicked. “Shit, I’m, uh, I’m sorry, I—”
@@ -959,16 +957,16 @@ Jade reached up and seized the front of her shirt in their fist, still grinning.
 
 “She won’t see nothin’ she hasn’t seen before,” they said happily.
 
-“She will with me!” Mayke protested. \
- \
+“She will with me!” Mayke protested.
+
 “And,” Amaranth asked, “you don’t want me to see?”
 
 Mayke looked at Amaranth with a mixture of awe and disbelief. Amaranth could hear her breathing hard, could practically _taste_ the need coming off the poor girl. Probably had been a long time.
 
 Amaranth sighed loudly, as if suffering, as if she was sacrificing her dignity for the sake of helping two poor sinners. “If it’d help, I _suppose_ I could take this dress off.” She reached behind herself and tugged the zipper from her neck all the way down its track, shrugged her shoulders. The dress slowly slid into a pool around her waist on the couch, exposing one of her favorite indulgences: expensive, nearly transparent, lace-edged peach silk lingerie.
 
-“Oh, fuck,” Mayke breathed. \
- \
+“Oh, fuck,” Mayke breathed.
+
 “I can’t tonight,” Amaranth said, smiling. “Busy day tomorrow, need my beauty sleep. After that…” She left the invitation open with a raised eyebrow and a wide, wide smile.
 
 “What a tragedy,” Jade said. “Best pretend she ain’t here, and… actually, just pretend like exactly this thing you started is happening, because I think you’re gonna get real into it, real fast. You want this, Mayke?”
@@ -1023,8 +1021,8 @@ By the end of her conditions, Mayke was speaking so quietly that only fae ears c
 
 “Sure thing, Mayke. No problems there.” Easy. Reassuring. Jade let her knew they _heard_ it, they _got_ it.
 
-“Okay,” Mayke said, audibly relieved. “Keep doing… whatever that was.” \
- \
+“Okay,” Mayke said, audibly relieved. “Keep doing… whatever that was.”
+
 “Can do, Mayke,” they said smoothly.
 
 The noises that eventually followed were from two people having quite a good time.
@@ -1091,6 +1089,9 @@ Jade raised an eyebrow. “You prepared for corporate security, vipers, gators, 
 The mage began rummaging around for breakfast.
 
 Amaranth decided to take the book with her, and tucked it into an inner pocket on one of the packs.
+
+
+## That Afternoon
 
 By the time the first alarm chimed on their chronograph, Jade’s arcane equipment had been forced into some semblance of order and then into carrying cases. The maps had been rolled up. All the boxes had been boxed, all the packs had been packed, the results surprisingly compact given the controlled chaos of the previous night’s preparation. But then, they’d gotten good at traveling light.
 
