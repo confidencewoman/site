@@ -668,7 +668,7 @@ Amaranth shook her head. “I wish. The interested party set the condition that 
 
 “You get used to it in this life. Real high level plan is, we find a way to get there that isn’t the main road, we go in after work hours, we do what we came for, we leave the same way. Leading option is, Jade opens a portal and we skip over all that swamp between here and there, but open to others. Best case scenario, nobody knows we were ever there; second best case scenario, anyone does notice, they think we’re just good company people working late. This is what we know, layout-wise,” Amaranth said as she spread out a rough sketch of the facility on the coffee table, drawn onto a flash copy of a military survey map.
 
-Mayke came around the table, stood next to Amaranth and the map, took a good hard look, ran her finger over some of the outlines, saying nothing.
+The singer came around the table, stood next to Amaranth and the map, took a good hard look, ran her finger over some of the outlines, saying nothing.
 
 “So,” Amaranth prompted after a while, “this is when we need your help.”
 
