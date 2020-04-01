@@ -23,7 +23,9 @@ description: "The Technician"
     - [One More Nasty Thing](#one-more-nasty-thing)
     - [A Really Good Story](#a-really-good-story)
 - [The Next Morning](#the-next-morning)
-- [That Afternoon](#that-afternoon)
+- [The Next Night](#the-next-night)
+    - [VP&M Compound](#vpm-compound)
+    - [Accounting](#accounting)
 - [_to be continued_](#to-be-continued)
 
 
@@ -534,7 +536,7 @@ Up on stage, the dark-eyed girl was starting her song. Spectacle, anyway. She wa
     But I’m digging you a graaaaaaave—”<br>
 </blockquote>
 
-“Oh, _gods_,”Amaranth said. “She is _murdering_ Bitzen Pieces. Third floor sounds good.”
+“Oh, _gods_,” Amaranth said. “She is _murdering_ Bitzen Pieces. Third floor sounds good.”
 
 “I’m sensing three’s a crowd,” Jade said. “Also, this chick can’t sing for biscuits. Find you back at the company suite, Amaranth?”
 
@@ -761,7 +763,7 @@ Mayke said, “Well, it had better, ‘cause I’m not a fuckin’ _flower_.”
 
 Jade looked her up and down. “Duly noted.”
 
-“O-_kay_. Are we done with the silly shit?”
+“_O-kay_. Are we done with the silly shit?”
 
 “For now, anyway,” Amaranth said, her quick smile promising more in the future, if she felt it was called for.
 
@@ -1111,12 +1113,12 @@ Jade raised an eyebrow. “You prepared for corporate security, vipers, gators, 
 
 “Simply living the life I’ve chosen, darling.”
 
-The mage began rummaging around for breakfast.
+The mage snorted and began rummaging around for breakfast.
 
 Amaranth decided to take the book with her, and tucked it into an inner pocket on one of the packs.
 
 
-## That Afternoon
+## The Next Night
 
 By the time the first alarm chimed on their chronograph, Jade’s arcane equipment had been forced into some semblance of order and then into carrying cases. The maps had been rolled up. All the boxes had been boxed, all the packs had been packed, the results surprisingly compact given the controlled chaos of the previous night’s preparation. But then, they’d gotten good at traveling light.
 
@@ -1145,7 +1147,7 @@ The two put their VP&M uniforms on, saving only the shoes for later; for now, th
 ---
 
 
-They took a back route out of the hotel to avoid the front desk, followed the planned path to a clearing on the edge of town that Jade had liked the metaphysical looks of. Its actual looks weren’t much; they were still very much in the swamp, and the muddy ground made her glad of the rubber boots. Insects buzzed in the still, humid afternoon air.
+They took a back route out of the hotel to avoid the front desk’s notice, followed the planned path to a clearing on the edge of town that Jade had liked the metaphysical looks of. Its actual looks weren’t much; they were still very much in the swamp, and the muddy ground made her glad of the rubber boots. Insects buzzed in the still, humid twilight air.
 
 The mage busied themself with a chart and compass, setting up bearings for the portal.
 
@@ -1157,7 +1159,7 @@ The chronograph’s alarm bell chimed, twice. “That’s a go, Jade.”
 
 “About two and a half seconds between when I finish this spell and when it draws full power. I got a rock picked out, and anyway, I got protection you don’t.”
 
-“That’s fair,” she said, and after a moment’s look around in the late afternoon’s fading light, found a huge cypress to take cover behind. She peeked around the side and called, “Jade?”
+“That’s fair,” she said, and after a moment’s look around in the evening gloom, found a huge cypress to take cover behind. She peeked around the side and called, “Jade?”
 
 “Yeah, doll?”
 
@@ -1170,6 +1172,260 @@ She ducked back into cover, huddled against the cypress trunk, on the far side f
 Jade muttered a few dozen words and then yelled three more. There was a sizzling noise, like a pan of bacon frying; with it, a bright flare of blazing purple light that shone on the woods behind her, casting a cone of deep shadow from the cypress she was sheltered behind.
 
 “Jade!”
+
+“It’s all good! That’s supposed to happen! We’re clear, you can come on out.”
+
+She emerged from behind the cypress. The clearing was filled, just filled, with a purple-white glow from the whirling cloud of light surrounding a neat circular hole in the forest. The dirt and mud underneath had been fused into a glassy platform, with a few of Jade’s glyphs remaining, filled with rippling violet light.
+
+Jade stared through it, arms crossed, nodding approvingly at their own handiwork. “No bounce. No explosion, obviously. Solid connection, but y’know, solid as solid goes around here, still gods-damned swamp on both ends.”
+
+“That sizzling noise? That had me worried for a tick,” Amaranth asked.
+
+“I just needed the mud to hold still for the rest of the spell, so I glassed it. Didn’t even need a separate spell, just switched up the source, basic leaky alpha conversion, fast, cheap, and _hot_, so try not to step where the edges are bubbling. Switched to nice clean beta mana once the hole proper opened — anyway, you don’t care about the details, grab your pack, we got a fifth of a klick to cover on the inside, about two minutes’ walk, and I don’t intend to hold it open a second longer than I gotta. Not bad for thirty klicks on the outside.”
+
+Amaranth had never been through one of Jade’s portals. They’d alluded to the possibility in the past, but Amaranth had so far been hesitant to factor complex magic into their plans, preferring to stick to things she understood, avoid surprises. Seemed like the deeper you got into magic, the more surprises you found.
+
+Jade’s work here in this clearing didn’t look a thing like the cheery yellow-orange of a commercial transit portal, which she’d just step through and be somewhere else (on the occasions she could afford to use them, in jurisdictions that didn’t watch their commercial teleports too closely for career criminals). She’d never seen the glowing, whirling edges of a free-standing portal until now, hadn’t realized that portals could be built without the usual obsidian frame, without any frame.
+
+She put her pack on, and followed Jade over the fused mud to the entrance.
+
+“Watch the edges, don’t step there, step _in_. And don’t fall off,” they said.
+
+“Fall off _what_?” She looked into the portal and saw a glowing violet path over a churning sea of purple darkness and confusion. Another thing she hadn’t realized was that portals could have _insides_. “Oh gods, Jade, you might have warned me!”
+
+“Just did.”
+
+She stepped up over the edge and onto nothing much. It felt solid under her feet, but… _Nope_. She wasn’t going to let herself question this, no panic unless Jade panicked. She focused her attention on Jade’s back. One foot in front of the other, and never mind the lack of handrails. _Welcome to portal space_, she thought. Ten years ago, she’d been sure she’d never be more than a few dozen klicks from home, and now here she was, not even in the same set of dimensions. That cheered her up a bit.
+
+Maybe halfway through, Amaranth risked a look to one side. Shapes in dense purple fog, a little further ahead on a parallel path. Familiar shapes. She was sure she could see the back of her own head. Maybe an optical illusion. She nodded. It nodded. But not _quite_ in step.
+
+Without turning their head, Jade said, “Just keep _going_, Amaranth.”
+
+They reached the other end in what seemed like a lot longer than two minutes. Amaranth had never been so happy to see a glowing hole full of dimly lit swamp in her life. She stepped onto real ground with a quiet sigh of relief.
+
+The exit was anchored exactly where Jade said they would put it, with the rock Mayke described hiding it, and them, from any keen eyes at the VP&M complex. It was tall enough to poke past the trees, which let a little light through the thick canopy. Jade set about collapsing the portal. It faded quietly, the glowing edges contracting to a point and then vanishing. With its glow gone, that shaft of fading light near the rock was about all they had left.
+
+“Do you see footprints?” Jade asked. “I can’t see shit.”
+
+“I can still see pretty well. I’ll get the biolights out.” She put her pack down, as close to where they’d come out of the portal as possible. If that ground was mined, they’d already know.
+
+“Wish I had those fae eyes.”
+
+“They do come in handy for walking through swamps in the dark. Even I’m not going to be able to navigate a minefield without a light source, though. And trust me, you don’t want the rest of the fae package.”
+
+“Oh yeah? Why not?”
+
+“Well, humans saying rude things about you when they notice the pointy ears, for one,” she told them. “But even worse is, you’d get to grow up fae, around a lot of other fae, all in each other’s heads…”
+
+Amaranth let them ponder that while she looked in the top of her pack for her new favorite light sources. The biolights were headbands with lenses covering a reflective cavity, containing cultured foxfire fungus that glowed of its own accord, and a sponge soaked in a woody-smelling liquid that foxfire apparently liked to eat. No heat, no smoke, no fuel, no batteries, no bulbs, no mana. Practically invisible to everyone but the user. They just didn’t put out much light. Amaranth found the three, took two for herself and Jade, put her pack back on.
+
+The third biolight was reserved for Mayke, if they needed to get her out the way they’d come in. If they did this quietly enough, she’d just go home late, like any other hard-working VP&M employee. 
+
+Jade put their biolight on. “Thanks, doll. How do you, uh, make it go?”
+
+“It’s already on. Flip that blackout cover up.”
+
+Eerie bluish-green light glimmered over the swamp. 
+
+“That big metal thing must be the portal mine, couldn’t see it but could sense something weird in that volume. Mayke’s footprints must be around it, but I can’t see any…”
+
+“Found ‘em,” Amaranth said. They were all around the huge steel and brass cylinder that had to be the deactivated portal mine. “I’m taking point, Jade. Compared to me, you’re nearly blind in this murk even with a biolight. You got me through the portal, I’ll get you through the swamp.”
+
+“Sounds good, Amaranth.”
+
+“Just stick close behind me.”
+
+As they followed Mayke’s footsteps slowly through the dark, Amaranth saw a familiar pattern of eyeshine in the water near the trail.
+
+“See that log there in the water just left of us, about four, maybe four and a half meters long?”
+
+“Yeah, what about it?”
+
+The gator yawned, displaying about eighty teeth in the glimmer of Amaranth’s lamp.
+
+“Don’t pet that log.”
+
+“Holy shit, Amaranth, that thing is _huge_!”
+
+“Ssssh. She probably won’t bother us. They’re lazy after dark.”
+
+As if illustrating her point, the reptile snuffled and submerged, shedding twisting vortexes of swamp water from its powerful tail.
+
+“You know gators, huh,” they said.
+
+“I ever tell you much about where I grew up?”
+
+“Can’t say that you ever did, Amaranth.”
+
+“Well, now you know one thing: there were alligators there,” she said, leaving it at that.
+
+Amaranth kept picking her way through the dark. Waxing moon that night. Every so often, a shaft of moonlight broke the canopy, and she could see a little more than just what intersected with the circle of phosphorescence her biolight cast in front of her. Away from the narrow path of footprints, it was all tree roots, puddles, brambles; occasionally, the dull metal of an exposed mine casing, or a suspiciously round hole. Impersonal anonymous death on all sides. It made a girl think.
+
+She said, “Hey, Jade?”
+
+“What? You find a new kind of thing I gotta not step on?”
+
+“Nah. Not yet, anyway. Just, great as you were at Raoçao and at Ustroy Obros back in the day, you’ve really gotten good since. No joke. Never knew I’d be in the same room as, let alone in the same bed as, someone who could just _make_ a portal. Can’t imagine I’d enjoy hiking thirty extra klicks of this shit.”
+
+“Ah, you’d have found some way to get us inside. You always do.”
+
+“And that’s the other thing,” she continued. “Yeah, I do. But hells, it’s _good_ to know I’m not the only one in on this thing we’ve got going, you know? Not doing this alone. Been good for me. Think it’s been good for you too, hot stuff, and I don’t just mean the magic. You look good. You look sharp, and isn’t just me seein’ that — sure Mayke saw it too. You don’t twitch like you used to when someone gets close. It’s heartening, is what it is.”
+
+“Why you gettin’ all sentimental on me all of a sudden, doll?”
+
+“I will get sentimental over who I want, when I want!”
+
+“You do that, Amaranth.” She couldn’t see them, behind her as they were, but she was pretty sure she could hear a smile in their voice.
+
+Three chimes sounded from the chronograph, somewhat muffled by the pocket of her pack.
+
+“Damn. Just as I was getting warmed up, too. Think we’re not far, I can see something out there that’s not moonlight or foxfire. I’m gonna pick up the pace a little. Keep up, Jade.”
+
+It wasn’t long before they came to a fence. Not much of one, really, just a few metal diamonds strung on chain between short concrete pillars. Yellow electric light shone from a few windows of the low, blocky building on the other side. 
+
+“This thing warded?” she asked quietly.
+
+“Not so I can sense it. We started catching the edge of what must be the site wards a minute ago anyway; those fake IDs are holding okay for the moment, but these ain’t wardstones anyway. Think it’s just a weird-lookin’ fence.”
+
+“All right, going over… hah.”
+
+“What?”
+
+“Well, now that I’m standing here, it makes more sense, what with the way these signs say ‘DANGER: MINEFIELD’ on the other side. Guess there’s no point in painting both sides of a sign with that on it. Anyway, this must be Mayke’s building.”
+
+“She said third floor… south, I think. Should be to our left.”
+
+They rounded the corner of the building, and there she was. Dangling upside-down at the end of a three-story rope, arms crossed, looking mischievous.
+
+“Yer late!” Mayke said. “I don’t have all night to _hang around_.”
+
+Amaranth gave Jade a _look_, like, _hey, can I pick ‘em or what_. “Good to see you again.”
+
+The technician’s flip and dismount from the knotted rope was as precise as any gymnast’s, despite the confines of her uncomfortable-looking vest and slacks. Amaranth almost clapped.
+
+Jade reached for the rope.
+
+“Uh-uh,” Mayke said to them. “Wipe your damn boots first, you slob.” She said it smiling, and her smile implied all the safety of a mouthful of razors.
+
+Amaranth knew right then and there that Jade and Mayke would get that encore.
+
+
+### <span style="color: rgb(109, 109, 109)">VP&M Compound</span>
+
+Mayke’s office was small but neat. Window at one end, door at the other, one wall taken up by a drawing board, with an assortment of tech pens and drafting tools in metal tubes alongside, walls covered in drafts and blueprints of various mechanical parts: gears, pistons, rotors, a few more exotic — Amaranth recognized the interlocking rings of a gamma driver because the one in her first car had broken just about monthly, but the gadgets to its sides were unfamiliar. A well-used workbench equipped with small but expensive-looking machine tools took up the entire other wall, with a few complex assemblies of parts under construction or repair. Notes on a chalkboard in the technician’s neat handwriting referred to other parts being worked on in other shops.
+
+Amaranth noticed the total absence of anything personal to Mayke in the room. No band posters, despite her relationship with music. No managraphs of family or friends or pets, no postcards, no birthday cards, none of the stuff that office people put in offices. Hell, she herself had stolen a family picture the night she ran away from home, just in case she started to forget their faces, hoping they’d come for her. Hung it in her first cubicle at her first temp gig. They hadn’t come. They hadn’t cared. She’d burned it a week later.
+
+“You really _just_ work here, Mayke. I thought that might be the case,” she said, softly.
+
+Mayke shrugged. “Honestly, I’ve _just worked_ anywhere I worked, except for — don’t worry about it. But if you hadn’t shown me a believable golden ticket out of VP&M in that hotel room, I’d probably move on soon anyway. You were right, up in that third floor bar: I wasn’t planning on coming back to the Club for the next ten years. This job didn’t ask a lot of questions, but hells, there are other jobs that don’t, maybe even with people I’d bother talking to.”
+
+Amaranth had a position in mind already, with Mayke’s name at the top of the unknowing applicant list, but she’d get to that chat once they got what they came for, got clear, and got paid. Out loud, she said, “Here’s what you need to know _now_. We’re going to make three stops, not necessarily in that order: fuel depot, accounting, and… the nearest ladies’ room.”
+
+“Now you gotta piss, Amaranth?” Jade asked. “_Again?_ I keep telling you, dollface, go before we go.”
+
+She stuck her tongue out at both of them, ladylike as any duchess.
+
+“There’s one on the second floor,” Mayke said.
+
+“We’ll need to leave our packs and outside boots here. No call to be traipsing around the facility with all our gear, not if we’re supposed to blend,” Jade said.
+
+“Yeah, no worries,” Mayke assured them. “Stick ‘em under the bench; security won’t notice if they make a round.”
+
+Amaranth slipped out of her boots and into grey flats, checked her office uniform for mud, checked her VP&M badge for ward key integrity. So far, still there. She pulled a large purse out of her pack and headed out of Mayke’s office and down the hall.
+
+
+
+---
+
+
+The purse was probably bigger than the average female employee’s handbag, but she had more than makeup and a few bills in there. In fact, besides the camera and document seal provided by her contact, she was also carrying a fake bug: an electric chimera, basically nonfunctional, transmitting on a frequency on which no station was listening, soldered together half-assedly from parts made on two different continents, and covered in rust and grime to make it look like it had been there a while. Her own private addition to the equipment list, _not_ provided by the contact.
+
+She found the ladies’ room in a few minutes. Amaranth picked an empty stall near the back, sat to pee, then took the chimera out of her purse and glued it to the back of the toilet.
+
+If VP&M noticed they were here, and they were halfway competent at investigating a security breach after the fact, they’d find the chimera eventually. Should keep VP&M busy for a while as they tried to attribute it to a competitor or government, and also figure out how long they’ve been “bugged”. Mayke didn’t need to know about it. If she and Jade had to leave her behind, she couldn’t very well get fingered for a bug she didn’t know existed, in a bathroom she wouldn’t have used.
+
+The lighting and mirror in the bathroom were nicer than expected, so Amaranth took a minute to touch up her makeup before returning to Mayke’s office. _Looking good, but not too good._ Subtle, in character for VP&M accountant Anya Harper.
+
+
+
+---
+
+
+Back upstairs, she opened the door on an argument in progress.
+
+“Look, we have a big mana-conductive puddle, practically begging for a harmless little jolt that’ll look real bad for a minute—” Jade said, slapping the workbench for emphasis.
+
+“Not if the decomp fumes trip the fire alarm!” Mayke interrupted, a pained expression on her face. “We gotta pull ’em off the job _without_ drawing more attention.”
+
+“_Next stop_?” she asked Jade and Mayke, pointedly.
+
+“I was just telling Jade,” Mayke said, “fuel depot has a bit of an extra issue.”
+
+“Something you didn’t tell us about the security?” Amaranth asked lightly, her friendly tone concealing a slight shift in position that would let her get to the less friendly baton strapped to her thigh, or the positively rude throwing knife on her other thigh, in the event she needed either.
+
+“Something I didn’t think of. It’s not even security,” Mayke said, embarrassed. “It’s that we don’t want to bump into the cleaning crew. See for yourself.” She handed a piece of paper to Amaranth.
+
+Amaranth skimmed it out loud: “Memo, all personnel working in or near Building 44, blah blah blah, please be advised that level one haz-mag cleanup will be in progress tonight due to blah blah blah. For your continued safety, Buildings 44, 45, and 47 are off limits to staff not involved in the cleanup until the start of regular business hours.”
+
+“47 is the fuel depot,” Mayke added. “I don’t wanna be wandering around taking pictures while the night cleaners are working anywhere near it. They might take it personal enough to call security.”
+
+“Jade?”
+
+They didn’t seem worried. “I’m not worried about the cleaners, I figured a way around them already. So the haz-mag shit is, some wood-for-brains genius dropped a whole flask of osmium pethium cyanazide oil suspension in the reagent shed right next door, leaked out the door, onto the walkways too. Shit’s a good beta guide, but it gets everywhere, it stinks, and it’s bad for ya — if you breathe it _all day_, which we won’t be. Mayke and I are just having a friendly professional disagreement over how to get the cleaners outta there so we can get in the depot next door without any gawkers.”
+
+“Yeah, OPC oil makes a great beta guide all right, yeah it’ll carry a glow charm just fine, but if it’s carrying anything significant and _exposed to air_, you get breakdown and a lot of pethium nitride smoke! There’s a _reason_ we only use the shit in sealed assemblies. I say we go the other way, find a fusebox, start putting out lights until they either send someone to Maintenance or give up for the night. We get the window we need, easy. You can’t just zap one end of the spill and expect propagation without decomposition—”
+
+“Pretty sure I can, buddy, won’t take all night either—”
+
+“In that case,” Amaranth’s tone of authority overrode  them both, “accounting’s our next stop. Figure the fuel depot out on the way. Not too _loud_, please.”
+
+“But—”
+
+“But nope. We _are_ professionals, after all,” she said, twirling the “Anya Harper” ID badge around on the end of its lanyard, then jerking it into her hand, photo side out, with a neat quick motion. “Follow close behind me, don’t say anything unless I ask you a direct question, and Jade? Look like you enjoy wearing that suit.”
+
+
+### <span style="color: rgb(109, 109, 109)">Accounting</span>
+
+By the time she walked through the door to the small accounting building, Amaranth had a good idea of what the imaginary Anya Harper was like. The grey shoes had stiff leather soles, which clacked authoritatively on the tiled floors in this end of the VP&M facility, and they were flats, because she didn’t need any extra height. The blazer was cut to minimize her bust, but it unbuttoned, and the blouse underneath was similarly decorous, but only by default. Plus, Anya wore Amaranth’s favorite lingerie under all that, a solid foundation. Anya took no shit, feared none of her coworkers, and thus could afford to be friendly and even a little flirty. Amaranth _liked_ Anya.
+
+Good luck, too, because the cleaners weren’t the only VP&M personnel working late. The accounting building was basically a bullpen, full of small desks and cubicles, at least a half-dozen of them occupied. She scanned the room quickly to see if anyone she’d talked to at the Club was here. No sign of Pinstripes, because of course he of the hyphenated last name wouldn’t dirty his hands working late. _Clear_.
+
+Amaranth surreptitiously unbuttoned a few strategic buttons, hung her ID badge where everyone would see it because they’d be looking where she’d unbuttoned, then marched right up to the nearest likely candidate for her charms and smiled her broad friendly smile.
+
+“Hey, working late again, Gary?” Amaranth teased. “Next audit cycle’s not for a _while_ yet.” She leaned toward him, showing her fake ID and no small amount of cleavage.
+
+He clearly looked at both, just as clearly missed her accomplices behind her. “Oh, hi, uh. Anya, right? Have we met?”
+
+“Main office, I think, _forever_ ago.”
+
+“Oh, Anya _Harper_!”
+
+“Yes! I’m surprised you remember me! Hey, I’m new _here_, though, just transferred from the main office last week. Gonna be in orientation most of this one, they haven’t even given me a desk yet, but the boss told me to get an early start on CapEx projections for next quarter anyway. Mind pointing me towards last quarter’s CapEx reports?”
+
+“Yeah, no problem!” Gary said. _Cheerful. Probably made his night._ “Upstairs in the local files. We’ve got like a few concentric rings of shelves around the second floor stairs for the newer stuff? Think you want cabinet AG or AH. Shouldn’t be too far from the flash copier.”
+
+Amaranth climbed a steep, narrow wooden staircase, located last quarter’s capital expenditure reports right where Gary had said they’d be. First sheet in the flash copier, the thin carved nephrite seal from her purse on one side of the document, _place your hand on the copier’s mana feed plate, think of bright light…_ The paratech devices were new, but so common and so well optimized that anyone could use them. **Flash**. Next sheet, **flash**, etc. She returned the seal to her purse, and picked up the stack of hot flash-prints from the output hopper, waving them back and forth quickly to cool them without hurting her hand in a way that any office worker anywhere was starting to find familiar. Original CapEx reports back in cabinet AG. Time to go.
+
+Her accomplices rejoined her as she came down the staircase. She left the building, waving and calling to Gary, “See you once they give me a desk assignment!”
+
+Outside, Mayke asked, “How the fuck did you do that?”
+
+“Do what?” Amaranth asked back, genuinely puzzled.
+
+“You’ve never been here. You’ve never met that guy. You just fooled him into thinking he knew you, and pointing you right to what you wanted, and now we’re just walking off with it.”
+
+“Oh,” she said, mildly disappointed in Mayke, especially after the little discussion they’d had over aizan the previous night. “You mean, did I use my creepy fae mind powers on him?”
+
+“Yeah. Did you?” Mayke looked a little sheepish about it, but stood her ground on the question.
+
+“Fuck, no. I saw his nametag, and I’m very, very good at improvising. Plus, _nobody_ here is actually _from_ here, and all offices are basically the same anyway,” Amaranth said. “Not exactly a hard mark to read or a hard scene to play. You come in, you look right, you know one common accounting term, it’s all good. Listen, Mayke. In general, but especially in situations where I have the advantage, I don’t _have_ to use any fae abilities, I don’t _need_ to, and I don’t even _want_ to. That’s just how it is with me.”
+
+“But why not?” the technician asked.
+
+“Point of pride,” she said.
+
+And then to keep Mayke’s head going the direction she needed it, Amaranth asked, “So, Mayke, Jade. Getting into the fuel depot without being seen. Do we still have a problem?”
 
 
 ## _to be continued_
