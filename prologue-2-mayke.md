@@ -26,6 +26,9 @@ description: "The Technician"
 - [The Next Night](#the-next-night)
     - [VP&M Compound](#vpm-compound)
     - [Accounting](#accounting)
+    - [Building 43 Roof](#building-43-roof)
+    - [Fuel Depot](#fuel-depot)
+    - [Motor Pool](#motor-pool)
 - [_to be continued_](#to-be-continued)
 
 
@@ -1426,6 +1429,127 @@ Outside, Mayke asked, “How the fuck did you do that?”
 “Point of pride,” she said.
 
 And then to keep Mayke’s head going the direction she needed it, Amaranth asked, “So, Mayke, Jade. Getting into the fuel depot without being seen. Do we still have a problem?”
+
+The technician started. “Well, we talked a bit while you were upstairs, but—”
+
+“I’m curious, Mayke. You wanna turn lights off, which is gonna take forever, because you want me to not smoke up the place and set off the fire alarms…” The mage paused. “You got a way we can just kill the fire alarms?”
+
+“Uh… Hmm.” Somewhere in her head, Mayke grabbed a wild idea by the horns. “Yeah, actually, I do. They’re not on the same circuits as the lighting, but they _are_ electrical, and the circuits go through the same fuseboxes anyway. Cheaper.” She took a sideways look at the mage, tilting her head like a curious bird. “Weird. Guess I had a mental block about the easy way. Portal mines I don’t mind breaking, but fire alarms… that’s fucking with _safety equipment_.”
+
+“Ya know, VP&M, they’ll getcha if they can after this, right? Could be you or them. Have it be you, every time,” Jade said. “Fuckin’ shame it were otherwise.”
+
+“It’s an adjustment—”
+
+“Adjust faster, okay? You got another moral dilemma, fuckin’ ask me.”
+
+The technician looked at the mage more directly. _Extremely_ directly. “Okay, Jade. You got it,” she said.
+
+“Good. Yeah, Amaranth, we got it. The gearhead here kills the alarms, I find a spot I can cast on that slick of OPC oil from…”
+
+
+### <span style="color: rgb(109, 109, 109)">Building 43 Roof</span>
+
+But it wasn’t that easy. As they approached the arcana area containing Building 47, Amaranth picked up first the oddly metallic stink of what had to be OPC oil, and then the sounds of a busy team of night-shift haz-mag cleaners.
+
+She waved the others to a stop before they turned a corner that might put them in view. “Dozen or so cleaners,” she told them. “They’re all over what has to be the reagent shed, but if we go around this building, we’ll be right where they can see us. No closer. We should get inside. Mayke, where do we need to be for you to take the fire alarms out?”
+
+“We can start by getting some height. Need to be on the roof of one of the buildings next to 44. I can see most of 43 from here, doesn't look like anyone’s working late in the soil lab.”
+
+“How about you, Jade?”
+
+“Roof works fine for me, toots. Easy from overhead. Should be a good view of the spill.”
+
+They rounded a different corner, followed the wall of that building to the one Mayke had indicated. A narrow alley between the two. Amaranth peeked around the corner, jerked her head back.
+
+“Nobody’s looking this way. Let’s go, now.”
+
+Amaranth quickly opened the door to Building 43. It wasn't locked. The smell of OPC wasn’t as strong in here, replaced with an intense smell of wet dirt. _Guess that's why it’s not locked. Who’s gonna steal dirt?_
+
+“Upstairs,” Mayke said. “Should be a roof access.” She led them up a narrow steel staircase, past wooden shelves lined with dozens of jars of more dirt, up a ladder, back out into the swamp night, onto a shallow slanting roof shingled with broad slices of some tropical hardwood.
+
+Jade peered over the edge of the roof. “There’s our shed. I’m good. Just tell me when.”
+
+“So, _can_ you kill the power for the reagent shed from here?” Amaranth asked.
+
+The technician pointed an index finger in the air. “Up there.”
+
+“What?”
+
+“Overhead power distribution cables. Fuseboxes are up on the roofs of each individual building. Don't worry,” she said. “I’m good with heights.”
+
+Mayke climbed 42’s roof cable to the top of a pylon nearby. From there, Amaranth watched her shimmy hand over hand, upside-down, legs looped around the overhead power wire, to a similar pylon near 44, then slide down it and land noiselessly on the reagent shed’s roof. A dozen cleaners down at ground level, inside and outside the shed, and not a one looked up from mopping or blotting. Amaranth shook her head in amusement. _Full of hidden talents, this one._
+
+A minute later, the singer gave a thumbs-up, and began retreating back up the electrical feed.
+
+Jade made a few careful figures in the air with one hand, then opened the other and unleashed a beam of faint yellow light into the very edge of the OPC slick. It vanished briefly, sinking into the thin puddle of liquid mana conductor, and reappeared as a blazing yellow glow inside the single-story reagent shed. Thin curls of green smoke escaped from the door.
+
+The cleaners scrambled out of the shed in a hurry, one jumping out through a window. Amaranth caught snatches of their surprise:
+
+“Guys, my _ass_ this is a level one! We better go get the heavy shit.”
+
+“Never seen OPC oil do _that_ before, musta got into something else.”
+
+“At least it’s mostly confined, yeah? Let’s go get the heavy shit while it still is!”
+
+They formed up and left for wherever the “heavy shit” was, with no sign of noticing Amaranth or her team overlooking them. No alarms. Amaranth let out a breath that she hadn’t realized she’d been holding.
+
+Mayke completed her return across the thin bridge of electrical cable from building to building, and dropped quietly to the roof next to Jade.
+
+“Hey, you're pretty good at this for a mumbo-jumbo artist,” the technician said. “Nice light show, nice quiet casting. Surprised those gloves don't get in the way.”
+
+“Did they get in the way last night? No. Do you somehow muddle through this electrical horseshit without even being able to feel power flow? Surprisingly, yes. Good on you, buddy,” Jade said, smirking. Their eyes promised that some exciting form of payback for “mumbo-jumbo artist” was in Mayke’s future.
+
+“In and out, let’s make it fast,” Jade said, “they’ll be back.”
+
+
+### <span style="color: rgb(109, 109, 109)">Fuel Depot</span>
+
+The fuel depot was a rusty prefab warehouse dome. Small windows. Must have been one of the first buildings at the site. Looked older than any of the others Amaranth had seen so far.
+
+Mayke and Jade opened the dome’s heavy double doors. As Jade stepped across the threshold, Mayke reacted to something in the dome, tried to put an arm in front of Jade, yelled, “Fuck, wait!” 
+
+But it was too late.
+
+There was an odd noise, like a dozen horns blaring bass notes, slightly out of tune with each other. Maybe not a physical one. Amaranth wasn’t sure if she was hearing it, or if it was just being blasted directly into her brain. It didn’t last long, and it didn’t hurt, exactly, but she didn’t care to repeat it.
+
+Amaranth looked through the door and saw it full of cylinders of an oddly dull metal, resting in frames wreathed with arcane and electrical equipment. Jade was on the floor, face down, just past the doors. _Jade was down._
+
+Mayke hissed, “As I was saying, there’s some new shit on the fuel storage frames since I was last in here and _I don’t know what it does!_”
+
+“Jade, talk to me!” Amaranth demanded, nearly leaning into the zone of whatever trap had hit them as her reflexes told her to _help_. Her heart felt like it was oddly suspended in her chest, as if it had leaped and was about to land. _No, no, no, not like this…_
+
+They groaned, rolled over, and sat up, with some effort, propping themself against a storage frame. Thank whatever gods or demons watched over queer sexy criminals, Jade was still alive.
+
+“At a guess,” they said, grimacing, “vampire ward. Mana drain, you understand? As in, all my juice just got sucked out—”
+
+Through a small, dirt-streaked window on the far side, Amaranth could see a metal spire outside the dome. Cerulean lightning leapt from its tip. Thunder cracked; deafening, this close. It made all other sounds temporarily irrelevant. Jade kept talking anyway, then had to repeat themself:
+
+“—and flared off. Don’t think it’s even a trap, but it might be,” they spat the words, “_a safety system_. So that’s _dandy_. I sure feel safer. You two should be okay to get in here. Better take those fuckin’ vacation snaps, doll, and then we fuckin’ _run_.”
+
+As her keen ears recovered, they started catching sounds of a distant commotion. That would be onsite security waking up. Spotlights came on. They would come here.
+
+Amaranth snapped pictures of the fuel storage frames with the camera from her purse, shot after shot, until its film counter clicked empty, and then, “Got the snaps. So we’re not going back out your window, Mayke,” she said, calmly for the others, but still shaken inside. _Can’t panic, can’t let it surface in my voice, not now, but oh fuck, I thought I’d almost lost you, Jade…_ “No portal, no chance. Thoughts?”
+
+“I got an idea,” the technician said. She was jittery, eyes closed, hands balled into shaking maybe on the verge of losing it, Amaranth thought, but then she came back to speech: “One road out. Have to go through the motor pool and get something that can handle the road. Need a diversion or they just come after us.”
+
+“Oh, it’s _us_ now, is it?” Jade said, wincing as Amaranth helped them up. “Good thing, too.”
+
+“This ain’t about you and me, _sugarbritches_. I’m just sick of this fucking _jungle_… and you know what, there’s another safety system I always wondered about. Remember the map? Get your shit from my office if you can, but even if you can’t, motor pool, inside entrance, _five minutes_. Wait for me or you have _no chance_, hear me? _No chance_.”
+
+She began to heft one of the smaller fuel cylinders out of its storage frame. As far as Amaranth could tell, it was a solid cylinder of metal. She was _strong_. But hells if she was going out there alone without a proper sendoff. Especially since she was doing it to give all three of them a chance. “Wait,” Amaranth said, and grabbed Mayke by her VP&M badge lanyard, pulled her into a kiss. “For luck.” Mayke didn’t say anything, but there was the ghost of a genuine smile; touched by fear, yes, but by no means dominated by it. She picked up the fuel cylinder, gave Amaranth a quick nod, and hauled ass.
+
+
+### <span style="color: rgb(109, 109, 109)">Motor Pool</span>
+
+There wasn’t much they could do then but run. Amaranth sprinted back to the engineering building that held Mayke’s office, Jade following as best they could. They _needed_ those packs, or they wouldn’t get far from Kyravasti. She ran upstairs taking steps two or three at a time to the third floor, found the technician’s office, grabbed both backpacks, ran back downstairs, her feet barely touching the ground despite the load. She handed one off to Jade and they made for the motor pool together.
+
+There was a guard set on the motor pool, of course. Four of them, armored and obviously warded, carrying stunrods and mean-looking hand cannons, all looking out into the night in different directions.
+
+Amaranth and Jade ducked into a dense thicket of some broad-leaved tropical plant nearby, hid as best they could from the guards’ sight.
+
+“Think the ward key on my badge is gone,” Jade whispered. “When that shit in the depot got me, it got that too.”
+
+Amaranth just nodded. Hers was definitely fucked too; it was still hanging around her neck and there was a burn hole right where the ward key sigil should have been. She was starting to hear the voices in her head. Not loud, yet, but Mayke had said that soon, they would be.
 
 
 ## _to be continued_
