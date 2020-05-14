@@ -1611,7 +1611,7 @@ Will emerged from the back room, holding a mass of paper tape, and shaking his y
 
 The youth tried to cheer her up. “I really am sorry, miss. Aurora season. We do still offer a full range of postal services, however. I don’t suppose I could interest you in a postcard, miss? The town really is lovely in midsummer once it gets properly warm. I’m sure your family would appreciate a handwritten greeting on a managraphic print of our famous boardwalk.”
 
-“My family…” _is here,_ she’d almost said. Jade was here. Had been with her for two years now. She’d cried on their shoulder a fair number of times, not because things were bad, but because way back when, they_ had been _bad, and she hadn’t had _anybody_ to tell. More than long enough to feel like family, though they’d never said it.
+“My family…” _is here,_ she’d almost said. Jade was here. Had been with her for three years now. She’d cried on their shoulder a fair number of times, not because things were bad, but because way back when, they _had been_ bad, and she hadn’t had _anybody_ to tell. More than long enough to feel like family, though they’d never said it.
 
 There _was_ somebody back home, though. The one member of her _birth_ family (she always made the distinction, in her head) that had always had time and a kind word for her, and if she was lucky, a few lipsticks or some blush, skimmed from her job at the galleria. Amaranth smiled at the warmth of the memories. It had been too long since she’d written Valerie.
 
@@ -1811,7 +1811,7 @@ Jade’s brow furrowed as they took it all in. Amaranth knew that expression: Ja
 
 Truth be told, she wasn’t thrilled with the tech’s story either. It was over. They were alive. Kyravasti was still there. But she’d been getting to like Mayke, and hell, she’d even told Jade, “She’s probably not suicidal,” that last morning in the Kyravasti hotel. Amaranth’s own best assessment as a professional judge of criminal character. _Was she wrong?_
 
-“Let me get this straight,” she began, “Just trying to understand here: when you set up that diversion, that hellish screeching and rumbling, you knew there was a chance it’d escalate all the way to the end of civilization as we know it.”
+“Let me get this straight,” she began, “Just trying to understand here: when you set up that diversion, that hellish screeching and rumbling, you knew there was a chance it’d escalate all the way to, to what, a steaming crater fifty clicks wide where Kyravasti used to be?”
 
 “Look, we had safeguards for a runaway. I’ve been in the test area with the #3 kinetoreactor running with more fuel than that, back when we were still controlling timing by hand. Got to feeling like the twenty tons of non-reactant steel we drop into the central field to execute an emergency quench was gonna do the job. Theory said it was supposed to.”
 
