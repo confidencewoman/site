@@ -6,7 +6,7 @@ description: "The Technician"
 
 ## Content Warnings
 
-**alcohol, sex**
+**alcohol, sex, violence**
 
 
 ## Table of Contents
@@ -29,6 +29,8 @@ description: "The Technician"
     - [Building 43 Roof](#building-43-roof)
     - [Fuel Depot](#fuel-depot)
     - [Motor Pool](#motor-pool)
+- [The Next Week](#the-next-week)
+    - [Diner](#diner)
 - [_to be continued_](#to-be-continued)
 
 
@@ -572,7 +574,7 @@ The singer frowned, suddenly back on the defensive. “We could. But you should 
 
 “Aha,” Amaranth said. “Busted.”
 
-“For what it’s worth, I was hoping I was wrong.” The singer leaned back and sighed. They finished their aizan in one slug. “Thanks for the drinks anyhow.”
+“For what it’s worth, I was hoping I was wrong.” The singer leaned back and sighed. She finished her aizan in one slug. “Thanks for the drinks anyhow.”
 
 “Well, hey, good news, you’re close, but you’re still a little bit wrong. Wanna talk to enough money to get you out of this swamp for good, instead?”
 
@@ -692,7 +694,7 @@ Amaranth grinned the kind of grin that gave the singer some trouble deciding whe
 
 ### <span style="color: rgb(109, 109, 109)">Codenames</span>
 
-"My _name_, first of all. Which neither of you bothered to ask, by the way; you’re terrible at flirting. I’m—”
+“My _name_, first of all. Which neither of you bothered to ask, by the way; you’re terrible at flirting. I’m—”
 
 “No names!” Amaranth said sharply. “Once we’re into it, codenames only. We’ll handle that before we get much further.”
 
@@ -1310,7 +1312,7 @@ Jade reached for the rope.
 
 “Uh-uh,” Mayke said to them. “Wipe your damn boots first, you slob.” She said it smiling, and her smile implied all the safety of a mouthful of razors.
 
-Amaranth knew right then and there that Jade and Mayke would get that encore.
+Amaranth strongly suspected that Jade and Mayke would get that encore.
 
 
 ### <span style="color: rgb(109, 109, 109)">VP&M Compound</span>
@@ -1453,7 +1455,7 @@ But it wasn’t that easy. As they approached the arcana area containing Buildin
 
 She waved the others to a stop before they turned a corner that might put them in view. “Dozen or so cleaners,” she told them. “They’re all over what has to be the reagent shed, but if we go around this building, we’ll be right where they can see us. No closer. We should get inside. Mayke, where do we need to be for you to take the fire alarms out?”
 
-“We can start by getting some height. Need to be on the roof of one of the buildings next to 44. I can see most of 43 from here, doesn't look like anyone’s working late in the soil lab.”
+“We can start by getting some height. Need to be on the roof of one of the buildings next to 44. I can see most of 43 from here, doesn’t look like anyone’s working late in the soil lab.”
 
 “How about you, Jade?”
 
@@ -1463,7 +1465,7 @@ They rounded a different corner, followed the wall of that building to the one M
 
 “Nobody’s looking this way. Let’s go, now.”
 
-Amaranth quickly opened the door to Building 43. It wasn't locked. The smell of OPC wasn’t as strong in here, replaced with an intense smell of wet dirt. _Guess that's why it’s not locked. Who’s gonna steal dirt?_
+Amaranth quickly opened the door to Building 43. It wasn’t locked. The smell of OPC wasn’t as strong in here, replaced with an intense smell of wet dirt. _Guess that’s why it’s not locked. Who’s gonna steal dirt?_
 
 “Upstairs,” Mayke said. “Should be a roof access.” She led them up a narrow steel staircase, past wooden shelves lined with dozens of jars of more dirt, up a ladder, back out into the swamp night, onto a shallow slanting roof shingled with broad slices of some tropical hardwood.
 
@@ -1475,7 +1477,7 @@ The technician pointed an index finger in the air. “Up there.”
 
 “What?”
 
-“Overhead power distribution cables. Fuseboxes are up on the roofs of each individual building. Don't worry,” she said. “I’m good with heights.”
+“Overhead power distribution cables. Fuseboxes are up on the roofs of each individual building. Don’t worry,” she said. “I’m good with heights.”
 
 Mayke climbed 42’s roof cable to the top of a pylon nearby. From there, Amaranth watched her shimmy hand over hand, upside-down, legs looped around the overhead power wire, to a similar pylon near 44, then slide down it and land noiselessly on the reagent shed’s roof. A dozen cleaners down at ground level, inside and outside the shed, and not a one looked up from mopping or blotting. Amaranth shook her head in amusement. _Full of hidden talents, this one._
 
@@ -1495,7 +1497,7 @@ They formed up and left for wherever the “heavy shit” was, with no sign of n
 
 Mayke completed her return across the thin bridge of electrical cable from building to building, and dropped quietly to the roof next to Jade.
 
-“Hey, you're pretty good at this for a mumbo-jumbo artist,” the technician said. “Nice light show, nice quiet casting. Surprised those gloves don't get in the way.”
+“Hey, you’re pretty good at this for a mumbo-jumbo artist,” the technician said. “Nice light show, nice quiet casting. Surprised those gloves don’t get in the way.”
 
 “Did they get in the way last night? No. Do you somehow muddle through this electrical horseshit without even being able to feel power flow? Surprisingly, yes. Good on you, buddy,” Jade said, smirking. Their eyes promised that some exciting form of payback for “mumbo-jumbo artist” was in Mayke’s future.
 
@@ -1530,11 +1532,11 @@ As her keen ears recovered, they started catching sounds of a distant commotion.
 
 Amaranth snapped pictures of the fuel storage frames with the camera from her purse, shot after shot, until its film counter clicked empty, and then, “Got the snaps. So we’re not going back out your window, Mayke,” she said, calmly for the others, but still shaken inside. _Can’t panic, can’t let it surface in my voice, not now, but oh fuck, I thought I’d almost lost you, Jade…_ “No portal, no chance. Thoughts?”
 
-“I got an idea,” the technician said. She was jittery, eyes closed, hands balled into shaking maybe on the verge of losing it, Amaranth thought, but then she came back to speech: “One road out. Have to go through the motor pool and get something that can handle the road. Need a diversion or they just come after us.”
+“I got an idea,” the technician said. She was jittery, eyes closed, hands balled into shaking maybe on the verge of losing it, Amaranth thought, but then she came back to speech: “One road out. Have to go through the motor pool and get something that can handle the road. Need a diversion or they just come after us, and they could be shooting to kill.”
 
 “Oh, it’s _us_ now, is it?” Jade said, wincing as Amaranth helped them up. “Good thing, too.”
 
-“This ain’t about you and me, _sugarbritches_. I’m just sick of this fucking _jungle_… and you know what, there’s another safety system I always wondered about. Remember the map? Get your shit from my office if you can, but even if you can’t, motor pool, inside entrance, _five minutes_. Wait for me or you have _no chance_, hear me? _No chance_.”
+“This ain’t about you and me, _sugarbritches_. I’m just sick of this fucking _jungle_. Remember the map? Get your shit from my office if you can, but even if you can’t, motor pool, inside entrance, _five minutes_. Wait for me or you have _no chance_, hear me? _No chance_.”
 
 She began to heft one of the smaller fuel cylinders out of its storage frame. As far as Amaranth could tell, it was a solid cylinder of metal. She was _strong_. But hells if she was going out there alone without a proper sendoff. Especially since she was doing it to give all three of them a chance. “Wait,” Amaranth said, and grabbed Mayke by her VP&M badge lanyard, pulled her into a kiss. “For luck.” Mayke didn’t say anything, but there was the ghost of a genuine smile; touched by fear, yes, but by no means dominated by it. She picked up the fuel cylinder, gave Amaranth a quick nod, and hauled ass.
 
@@ -1550,6 +1552,308 @@ Amaranth and Jade ducked into a dense thicket of some broad-leaved tropical plan
 “Think the ward key on my badge is gone,” Jade whispered. “When that shit in the depot got me, it got that too.”
 
 Amaranth just nodded. Hers was definitely fucked too; it was still hanging around her neck and there was a burn hole right where the ward key sigil should have been. She was starting to hear the voices in her head. Not loud, yet, but Mayke had said that soon, they would be.
+
+
+
+---
+
+
+Roughly a minute and a half of tense stillness later, during which the voices kept getting louder and louder, there was an absolutely unholy noise from somewhere else in the facility that dwarfed the noise in her mind. A screech, a rumble, a shaking of the ground, all simultaneous, all getting worse. The guards jogged off in a hurry, grim expressions. _Something they knew could happen? Something they were afraid could happen?_
+
+Mayke came running from the other direction, looking around wildly, carrying a wrench. One end was dripping some liquid that looked black in the reflected yellow light of the big security spotlights now swinging wildly around the VP&M site.
+
+Amaranth stood up clear of the thicket. Between the tension of hiding a bare few meters from armed guards, the babble in her head, the awful noise outside it, and the bloody wrench, she was barely keeping a handle on herself, and meaning to whisper, she shouted: “Mayke! It’s Amaranth! The fuck is going on!”
+
+Mayke jumped about a foot in the air out of nerves, then recognized Amaranth. She let go of the tool she’d used as a weapon; it bounced off the edge of the walkway and into a drainage ditch.
+
+“Amaranth! I don’t think I killed him, but let’s fucking go, go, go!”
+
+“No, what did you fucking _do_, what’s happening, what’s that _noise_?”
+
+Mayke pulled a geared disc out of her vest pocket with a grim expression. “I snuck into the test area, surprised a guard, climbed the #3 scaffolding in the dark with a fuel rod, and started a prototype kinetoreactor, with a light fuel load but _without the timing disc_. That noise is two tons of tungsten transfer rotor spinning way faster than it was ever supposed to, and it’s gonna keep making that noise until the safety systems go off and make a godsawful mess. I suggest we don’t stick around to watch.”
+
+The motor pool was totally empty. Whatever beast Mayke unleashed must have occupied the attentions of the entire facility. There were no keys, but Mayke jammed a screwdriver somewhere under the dash of the first likely-looking jeep, and the ignition caught and the engine roared.
+
+With Mayke with them, and her real badge and its company-issued ward key in close proximity, the voices went a little further away, but even still, Amaranth and Jade were in no shape to drive or even look out until long after they were clear of the warded access road.
+
+They drove in shifts after that, until the sun came up.
+
+
+## The Next Week
+
+They were close to the ocean here, hundreds of miles from the vast inland swamps of Kyravasti. Seveissi was cheap, a beachy tourist area happy to have off-season customers, and right now, they needed cheap. The money hadn’t come through yet.
+
+Amaranth sat by herself on a wooden bench in the post, radio, and telegraph office on the long main street of Seveissi, arms wrapped around a large leather folio. Wire racks on either side displayed managraphic postcards of Seveissi in high summer, all solandras and plumerias, blue seas and weathered brick. She was waiting for the plump young brown-haired lad named Will who was the local telegraph operator, as she had been every morning for the past few days. She’d asked him to please check again. Just in case.
+
+Before the Kyravasti job began, Amaranth and her employer of the moment had mutually agreed on a reputable commercial escrow agency in Iyahoko, and a less reputable but very discreet bank that claimed to operate out of Boren.
+
+She hadn’t used the escrow agency before, but it was run as a joint venture between a particularly staid Iyahokan church, and an offshoot of the royal family that, for all their aristo bullshit, were famously strict about keeping to the letter of their word, to the point of having executed a few black sheep that had tarnished the family name. She’d asked around, of course. By all accounts, propriety was the name of the game at St. Ranek’s Assurance; well, that, and taking a generous cut of the escrow amounts that propriety brought them.
+
+St. Ranek’s hadn’t been a problem. The low-lying islands of Iyahoko were close across the narrow sea, and the off-season for tourists was apparently the off-season for deep-sea fishermen as well. It hadn’t been expensive to send a marlin boat to Iyahoko with the first two pages of flash-copied VP&M numbers and the empty camera. (She’d kept the negatives, of course, and made her own copies of the copies.) St. Ranek’s had responded by radio the next morning, before the boat had even recrossed the distance from Iyahoka:
+
+<blockquote style='font-size: 1.2em !important;'>
+    <code>
+        ITEMS RECEIVED COMPLIANT WITH ESCROW AGREEMENT STOP UNABLE CONTACT OTHER PARTY OR BANK STOP COMMUNICATION DIFFICULTIES NATURAL CAUSES STOP ATTEMPTS WILL CONTINUE STOP BE WELL IN THE GODDESS BLESSINGS FULLSTOP
+    </code>
+</blockquote>
+
+She’d used the bank before, several times; even tried to check them out, the one time she’d been to the vertiginous canyon city of Boren. The address that the city’s business registry had provided as the bank’s main branch led her to a boarded-up watchman’s hut high up the mountain slopes of Boren Over. Nice view, if you liked rocks, snow, pines, and a total lack of any recent human presence. There had been an abundance of roped-off mineshafts that, if she’d put a heel wrong in the scree, would have probably taken her down to the perpetual nightlife in the caves of Boren Under, the fast way. But 3rd City International Bank & Trust always read their telegrams, and surprisingly, always answered their phones. By the third ring, day or night. Always. Wherever they really were.
+
+The trouble was that it was aurora season in Boren. Early winter that far south, every three years or so, came with nightly cascades of green-violet lights high overhead, some bizarre natural magical effect that waxed and waned over weeks, bright enough to glimmer through the clouds on overcast nights, and a truly impressive sight when it was clear, filling the sky with churning glows. You could read by them, and she had. The more poetic locals called them “the wings of the moon phoenix”.
+
+Having learned from Will the telegraph operator over the past few days of their disruptive effects on telegraph wires, radio, high-altitude mana reflector balloons, portal magic, natural leylines, artificial leylines, naval compasses, and even homing quetzals, Amaranth called them a colossal pain in the ass, and sincerely hoped the moon phoenix, if there was such a thing, would flap the hells away from Boren very soon.
+
+Will emerged from the back room, holding a mass of paper tape, and shaking his youthful head.
+
+“I’m sorry, miss,” he said. “Nothing on the spool either. I sent a query to the central office as well, free of charge for you, miss, and they confirmed loss of connectivity somewhere along the Boren Long Line. I very much doubt anyone’s hearing from Boren for a day or two at least. The previous operator’s notes from three years ago said about as much.”
+
+“That’s a shame,” she said, and meant it. There wasn’t much to do in Seveissi that didn’t involve getting paid and leaving it. Her emotions must have showed in her voice.
+
+The youth tried to cheer her up. “I really am sorry, miss. Aurora season. We do still offer a full range of postal services, however. I don’t suppose I could interest you in a postcard, miss? The town really is lovely in midsummer once it gets properly warm. I’m sure your family would appreciate a handwritten greeting on a managraphic print of our famous boardwalk.”
+
+“My family…” _is here,_ she’d almost said. Jade was here. Had been with her for two years now. She’d cried on their shoulder a fair number of times, not because things were bad, but because way back when, they_ had been _bad, and she hadn’t had _anybody_ to tell. More than long enough to feel like family, though they’d never said it.
+
+There _was_ somebody back home, though. The one member of her _birth_ family (she always made the distinction, in her head) that had always had time and a kind word for her, and if she was lucky, a few lipsticks or some blush, skimmed from her job at the galleria. Amaranth smiled at the warmth of the memories. It had been too long since she’d written Valerie.
+
+“You know what, Will,” she said, “I’ll take one. The one with the yellow flowers and the fountain. My older sister will love it.”
+
+
+### <span style="color: rgb(109, 109, 109)">Diner</span>
+
+The diner was down a side road off Seveissi’s main street; the tourists that’d be walking down that main street in high summer would never see it, but the locals knew where to find it. They came here for lunch most days. Amaranth wondered if that made them locals, pushed _that_ thought right back down.
+
+A bell jingled on the door as she opened it; the waitress gave her a nod as she stepped inside, then went back to chatting with the cook over the counter. Slow day, she guessed.
+
+She took a look around, hoping the place had somehow become more worth her while, but the diner was the same as it had been yesterday, the previous week, the previous year, the previous decade, probably. Black and white tiles on the floor, chrome details on every counter and chair, but all scuffed with age and use. Dark pink tablecloths that might have been dark red at one point. Ancient posters for bands that probably hadn’t made it decorated several corkboards by the door. A few locals, but mostly empty booths.
+
+Mayke was at their usual booth, wearing her new black leather jacket, a plain maroon tee, jeans. She’d driven them far clear of Kyravasti in the stolen VP&M jeep before either Amaranth or Jade was out from under the effects of the company’s wards, going two, maybe three hours before pulling over and asking if Amaranth could take the wheel. She never once suggested that they go back for anything, no personal objects of great importance, no equipment, certainly not clothes. It seemed that when Mayke made a break, she did it all the way. She’d had to get a new wardrobe in Seveissi.
+
+There was a half-full pot of coffee on the table next to Mayke. Seemed likely the other half was in Mayke; she was fidgeting by folding and unfolding a complicated pocket tool of unclear purpose. It clicked rhythmically in the tech’s hands.
+
+Amaranth sat down across from her. “Good morning,” she said. “You order yet?”
+
+Mayke jerked and looked up, startled. The tool escaped her grasp, fell to the floor, and slid under a nearby table. “Amaranth?”
+
+She laughed. “There any other six-foot blondes in this town? Wouldn’t mind meeting them so I can commiserate about Seveissi’s lack of cute little boutiques catering to women of stature. Can you introduce me?”
+
+“No, it’s just, you surprised me, I was expecting Jade,” Mayke mumbled. “We hadn’t ordered; they went out for a paper a little before you got here, should be back any minute now. ‘Scuse me.” The tech slid out of the booth and began rummaging around under the table where the tool had vanished, half of her obscured by the tablecloth.
+
+Mayke and Jade had been spending a lot of time together. There had been some intriguing noises. She and Jade had been around the block a few times after the Raoçao job, and they’d only gotten more creative since. Seemed like Mayke was not only benefiting from all that practice, but bringing a few tactics of her own.
+
+Amaranth truly loved seeing Jade happy, she did. Under the circumstances, she wasn’t going to begrudge their temporary companion any happiness either. Just wished they’d save some for her: Jade had said they’d been too tired the last two times she’d propositioned them, and looked it, while Mayke had been acting somehow squirrely around Amaranth, as she was now. Amaranth had a few thoughts on why, and what to do about it, and some more lavish thoughts on how.
+
+The bell on the diner’s front door jingled again. Thoughts regarding Mayke would have to wait.
+
+Amaranth watched the waitress’s head turn, checking the new arrival out as they passed the counter. And why wouldn’t she? The new arrival dressed like _someone_. They’d hardly slack off on pressing their dress shirts, shining their shoes, and keeping their hair in their trademark pompadour, merely because they were in the middle of nowhere, doing nothing.
+
+“Morning, Jade,” she acknowledged them.
+
+They nodded. “Mornin’, doll. You seen Mayke?”
+
+She tilted her head to the side, indicating the table under which Mayke was still on knees and elbows, hunting for the dropped tool. “Treasure hunt.”
+
+“You get the papers, Jade?” Mayke said, voice muffled.
+
+“Yeah.”
+
+She shimmied out backwards, wiggling her ass more than strictly necessary.
+
+_Good set of muscles under those jeans. Is she putting on a show?_ Amaranth wondered. _Probably for Jade, not me, but I can appreciate it anyway._
+
+The tech returned to her seat at the table; the tool disappeared into an interior jacket pocket. Jade sat down beside her, across from Amaranth; dropped a pair of newspapers on the table. Looked like the local rag and another one.
+
+“What are you looking for, anyway?” the mage asked.
+
+“Anything mentioning Kyravasti,” the tech said. She pushed her coffee to the side and started skimming the local.
+
+“If we’d been made, we’d know by now. Probably on account of not breathing no more,” the mage said, drawing a finger across their throat.
+
+“Not what I’m looking for.”
+
+“So what _are_ you looking for?”
+
+“Like I said,” she sighed, dropping the thin local for the slightly thicker other paper, “_anything_ mentioning Kyravasti.”
+
+“Miss it that much, huh?” Jade ribbed.
+
+“Not exactly.” The tech rubbed her eyes and yawned, maybe not as awake as she wanted to be, then kept reading. “But the Kyravasti phone grid doesn’t go far from the center of town, and the long-distance telegraph is company property, through and through. I can’t exactly call the place and ask if it’s still…” She trailed off and put the paper down unfinished, looking troubled. Maybe because she’d said something she hadn’t meant to.
+
+Amaranth raised an eyebrow. “Still what?”
+
+“Let’s get lunch first,” the tech said.
+
+_Subtle._ “All right,” Amaranth said. She’d let it drop in the interest of a pleasant meal. For the duration of that meal, anyway.
+
+“I know what _I’m_ getting,” Jade said.
+
+Amaranth laughed. “Let me guess. _Another_ cheeseburger?”
+
+“Fulla nutrients,” they said, smiling. “Vital chemicals necessary to the functioning of a healthy body. Beef, for one.” They ticked it off on a finger. “Cheese, for two. Bread. Ketchup. Mustard. Pickles.”
+
+“Hey, yeah,” Mayke said. “I did read somewhere you have to have a proper pickle balance for serious exertion, deep thinking, anything important.”
+
+“Read the same article,” Amaranth said. “Think it was printed on the back of a pickle jar.”
+
+“You’ve been stealing my pickles since we took up together on the advice of a _pickle jar_? I ain’t had a fully garnished burger in years,” Jade said in mock outrage.
+
+“Oh, that’s just an excuse. Pickles are briny, crunchy, all-around delicious. And I like delicious things,” Amaranth said, hand darting out suddenly to grab Jade by their tie. “Whole reason I got into this game.”
+
+“Hey, Amaranth, you can share my fries, but leave the pickles alone this time, hey?”
+
+“Two pickles and I leave you the rest. If I find you’ve shorted me on the salt or ketchup on those fries, though, so help you…”
+
+“Deal.”
+
+She let go of their tie. “Pleasure doing business with you, Jade.”
+
+“She’s a tough negotiator,” Jade said to Mayke.
+
+Mayke said, “You two are so gods-damn cutesy sometimes.”
+
+Amaranth grinned at Jade. Jade grinned back. On an unspoken beat, they turned to Mayke and said, simultaneously, “Jealous?”
+
+“Deeply disturbed,” the tech snorted. “Excuse me, miss?” she beckoned the waitress over, “we’re ready to order. Might stop them from flirting for a whole ten minutes, maybe twelve if you’ve got a good pie today.”
+
+“Rhubarb today,” the waitress said implacably.
+
+Jade said, “Rhubarb’s _all right_, but…”
+
+Mayke buried her face in her hands.
+
+
+
+---
+
+
+They tore through lunch, made do with more coffee and the rhubarb pie for dessert. Amaranth thought it wasn’t bad.
+
+“Don’t see why you and rhubarb don’t get along, Jade.”
+
+“It ain’t the worst thing once it’s in a pie, I’ll admit. Still,” Jade complained, “you know how it’s always _strawberry_ rhubarb pie? You ever make it without strawberries, and a bucketload of sugar for that matter, and you know what it tastes like?”
+
+“Jade, I never made a pie in my life. Other people sometimes find themselves inspired to bake pies for me, and I indulge them. But I’m guessing it tastes like… rhubarb?”
+
+“Yeah. You ever taste rhubarb by itself?”
+
+Amaranth thought this over. “Can’t say that I have.”
+
+“There’s a reason for that. It’s _awful_. So what I’m saying is—”
+
+Mayke asked, “Why not just leave it out and make strawberry pie instead?”
+
+“_Exactly!_” the mage said. “Mayke gets it.”
+
+“You might be onto something here, Jade.”
+
+Amaranth said, “Don’t tell me _you_ bake, Mayke?”
+
+“Picked up a few things here and there. Say I had to fend for myself a lot, food-wise. Kyravasti wasn’t even the bottom of the barrel as far as places I’ve been posted.”
+
+Amaranth noted the word choice: _posted_. Most people would have said _places I’ve lived_ or _places I’ve worked_. _Posted_ had implications. Only certain sorts of people said _posted_. Or _newbie_, for that matter, that last night in the swamp hotel. And some of those people might be very good indeed at things like hotwiring jeeps (from the _motor pool_, she remembered, not the _garage_), climbing things in the dark, memorizing the security systems of an entire corporate compound, and not to put too fine a point on it, impromptu industrial sabotage. Funny that _posted_ had been what finished the picture she’d been painting in the back of her head.
+
+Gods. She thought she’d been clever ruling out _Neville_ as undercover security based on the state of his shoes, but what was _Mayke_? A kindred spirit with a certain past, or an active asset on somebody else’s payroll?
+
+The temptation was there, as it always was, to listen to her mind and find out.
+
+She pushed it down. She really just needed a little more information, a little more leverage, to be applied the same in either potential scenario, and it was time to get it.
+
+“If you’re done with those, Mayke…”
+
+She reached across the table and grabbed the newspapers.
+
+“Hey!”
+
+Nothing in the local rag but classified ads and fish prices. Not surprising. She put it down and picked up the other one.
+
+The _Neoppi Record_ was from a larger town inland: Neoppi was a river port and natural leyline hub, if she remembered right. They’d gone through it on their way here to Seveissi at a good clip at four or five in the morning, foggy and poorly lit and devoid of people, but apparently once it woke up, all that transportation gave it an economy lively enough to support a real paper.
+
+Front page, regional politics. Upcoming election eating most of the page space. Second page, weather forecasts, city news, more politics. Speculation about a big project to dredge the river. Third page… She saw the word _Kyravasti_ buried in small print in the corner. Then _Vyruth_, and…
+
+Amaranth started reading out loud:
+
+<blockquote style='font-size: 1.2em !important;'>
+    “Fishermen and trappers working in the environs of the swamp town of Kyravasti reported hearing shrieking and rumbling, followed by a loud blast, late at night on the 42nd. A spokeswoman for Vyruth Power & Mana, currently the largest employer in Kyravasti, said she was not aware of any such explosion on or near VP&M company property, but noted that swamp gas explosions, the result of spontaneous ignition of the miasmic products of vegetable decay, have been recorded throughout history, both in the Kyravasti area and in other swamps and bogs around the world, and that they may be more likely if the wetlands are disturbed.”
+</blockquote>
+
+She paused. Mayke had frozen with her fingers clenched around her spoon, hand still against the table. “Mayke? Are you okay?”
+
+“That’s the same cover story they used last time someone ended up in the minefield,” the tech said quietly. “Swamp gas explosion. Is there more, Amaranth? Anything else?”
+
+<blockquote style='font-size: 1.2em !important;'>
+    “Several residents of Kyravasti later reported unusual weather on the 43rd and 44th, including low-lying dark clouds, and rain that left their homes and clothes streaked with grey dust. VP&M’s spokeswoman did not offer comment on the weather, but asked the Record to remind its readers to steer clear of suspected lizardfolk cultural sites and artifacts, as lizardfolk are present in the region’s archeological record. Many of the dangers of untrained handling of the relics of that extinct civilization are well documented, but more are discovered every year. This reporter grew up in Kyravasti, wholeheartedly endorses VP&M’s advice to avoid disturbing swamps and lizardfolk tombs, and would extend that to exhort our readers to avoid Kyravasti altogether if they can possibly help it.”
+</blockquote>
+
+Mayke sagged in her seat, dropped the spoon. It clinked on the table. “Oh, thank _fuck_.” 
+
+Amaranth gave it a moment. She picked up the spoon, looked at the bend that hadn’t been there when the waitress set the table, put it back down. Then she asked the question: “Mayke? What did you _do_, back there, that you’ve been this tense about it?”
+
+The tech straightened up a little, looked straight at her, eyebrows raised, like she’d just heard Amaranth count to ten and leave out four and seven. “Do you understand what I was working on, back in the swamp? I assumed you did. You sounded like you knew what you…” She trailed off. “You _sounded_ like you knew what you were doing. Oh, you’re _good_ at that, aren’t you.”
+
+“Yes. _Very_ good. But cutting-edge paratech is not my strong suit.”
+
+“Ain’t mine either,” the mage said. “I had most of a _classical_ education, thanks. I only keep up on paratech when there’s nothing exciting going on in _real_ arcana.”
+
+“I was told ‘research facility working on artificial mana generation’,” Amaranth said. “The client wasn’t specific as to any other details. They often aren’t.”
+
+“Then let me fill you in.” Mayke took a look around at the few other diner patrons, lowered her voice. “The fact that anyone in Kyravasti is alive to describe grey rain to a reporter is a good sign.”
+
+“Mayke,” Jade said, “I’m gonna need you to be way more specific while you explain how you almost killed all of us. Then I’m gonna kick your ass.”
+
+Amaranth looked at the mage. They didn’t look like they were joking. Neither did Mayke.
+
+“Like the lady said,” the tech answered. “Artificial mana generation.”
+
+“They’ve been able to do _that_ party trick for like a hundred years—”
+
+Mayke held up a hand. “Jade,” she said, still in that low quiet voice, “shut the fuck up. Not like this they haven’t. It took VP&M years to work out that it was even possible, what we were messing with, and when it turned out that it might be, _they shut the program down_. Know why they shut it down? So they could move it from the mainland to Kyravasti. Know why they moved it? Because the far end of the math said that it might be possible that a few kilos of an obscure mineral under extreme stress would kick out more mana in _ten seconds_ than a hundred of you, Jade, could call up in a _month_.”
+
+Jade’s brow furrowed as they took it all in. Amaranth knew that expression: Jade had learned to reign in the hothead shit when it was absolutely necessary, put a moment of thought in between action and reaction. But sometimes just so they could let it out harder at the right target. And they _really_ didn’t like being told to “shut the fuck up”.
+
+Truth be told, she wasn’t thrilled with the tech’s story either. It was over. They were alive. Kyravasti was still there. But she’d been getting to like Mayke, and hell, she’d even told Jade, “She’s probably not suicidal,” that last morning in the Kyravasti hotel. Amaranth’s own best assessment as a professional judge of criminal character. _Was she wrong?_
+
+“Let me get this straight,” she began, “Just trying to understand here: when you set up that diversion, that hellish screeching and rumbling, you knew there was a chance it’d escalate all the way to the end of civilization as we know it.”
+
+“Look, we had safeguards for a runaway. I’ve been in the test area with the #3 kinetoreactor running with more fuel than that, back when we were still controlling timing by hand. Got to feeling like the twenty tons of non-reactant steel we drop into the central field to execute an emergency quench was gonna do the job. Theory said it was supposed to.”
+
+Jade said, “_Supposed to_.”
+
+“Yeah, well, after, I got to worrying, okay?”
+
+Amaranth asked, “Worrying how much, about what?”
+
+“Thinking, shit, what if I was wrong? If the theory was wrong, if the manufacturing specs were off, if the alloy supplier sent us the wrong steel and nobody checked it, what if… what if it was just twenty tons of shrapnel sitting on top of an unstoppable gamma cascade?”
+
+Amaranth imagined a kinetoreactor. Some vague towering machine she’d never seen, all pipes and rotors, weird magic at its heart. Just being around it for years was off-putting enough an idea, for her, but there were people that tamed monsters. There were people that prayed to weird gods and sometimes even got their prayers granted. Maybe Mayke got used to working with that mechanical beast in the background after a while. She thought she knew it, was sure it was on a leash. Then one night she had to push it too far, saw teeth never bared before, and… what kind of monster was a runaway kinetoreactor, that dropping twenty tons of steel on it might not even slow it down?
+
+She tried to visualize an explosion that could level Kyravasti from the VP&M facility thirty klicks away, and failed. The scale was totally beyond her. She’d seen some big fireworks, but this would be a force of nature. _Not beyond Mayke, though. That’s what she’s been thinking about. Even though it never happened, she’s still back there in her head, where it’s been happening, and then not, and then happening again, wondering if only she’d done something different… Yeah, I get **that** just fine. No wonder she’s been eating herself up inside._
+
+She said, “You’ve been second-guessing yourself afterwards. You have to think on your feet in this business. I know the feeling of _what if_; you’ve been there too, Jade, yeah? But whatever might have happened _didn’t_ happen, so let’s all take a breath and—”
+
+“It could have happened!” Jade cut in. “Maybe you shoulda had that thought _before_!”
+
+“Yeah, maybe I should have! But the _other_ thing I was thinking was you were outta juice, likely exposed to the site wards, and security was gonna find you both and shoot you in the head! So remind me, you still walking around and breathing like normal? I made a fuckin’ _call_, Jade. It was a shitty plan, but the best one I could throw together for when _someone_ walked straight into a vampire ward and got themself mana-drained.”
+
+So much for diplomacy. These two, they were so similar. So clever, so sure about their own specialties, so good at finding holes in plans. The qualities that let them get along so well were the same ones that meant they’d be at each other’s throats too readily, on their own. Amaranth wouldn’t step in now, but soon, she’d have to.
+
+“You didn’t warn me!”
+
+“I fuckin’ tried! Maybe let me go first next time! For fuck’s sake, it’s a _lab_, not a playground, and you all picked me because I knew the Kyravasti facility!”
+
+Jade opened their mouth.
+
+Mayke wasn’t going to take whatever was coming next.
+
+“So you’re fuckin’ _welcome,_” the tech spat, and then, “Fuck. I… I need to get some air.”
+
+She stood up, walked right out of the diner before either Jade or Amaranth could say anything. The bell on the door jingled behind her.
+
+Jade made to stand up. Amaranth put her hand on their chest before they got out of their seat.
+
+“Bad idea, Jade. That thing you have going, the two of you? It’s not going to help you here. _I’ll_ talk to her, and we’re _both_ going to finish dessert first.”
+
+“Really, Amaranth? Dessert? She pulls some dangerous shit like this and you’re talking about dessert?”
+
+“I’m talking about giving her the barest amount of time to cool down before I find her. You too: sit. Eat your godsdamned rhubarb pie. And then… I’m not taking sides here, Jade, I promise, but _please_, go find somewhere else to be for a while.”
 
 
 ## _to be continued_
